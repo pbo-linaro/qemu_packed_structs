@@ -114,7 +114,7 @@ name:arm_boot_info DW_AT_declaration:true  DW_TAG_const_type  DW_TAG_pointer_typ
 name:arm_boot_info DW_AT_declaration:true  DW_TAG_const_type  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
 name:arm_boot_info DW_AT_declaration:true  DW_TAG_const_type  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:arm_boot_info size:0xd0 DW_AT_decl_file:C:/w/qemu/include/hw/arm/boot.h DW_AT_decl_line:40 DW_AT_decl_column:8  
-name:ARMCacheAttrs size:0x08 DW_AT_decl_file:C:\w\qemu\build/../target/arm/internals.h DW_AT_decl_line:1404 DW_AT_decl_column:16  
+name:ARMCacheAttrs size:0x04 DW_AT_decl_file:C:\w\qemu\build/../target/arm/internals.h DW_AT_decl_line:1404 DW_AT_decl_column:16  
 name:ARMCPRegInfo size:0x98 DW_AT_decl_file:C:\w\qemu\build/../target/arm/cpregs.h DW_AT_decl_line:838 DW_AT_decl_column:8  
 name:ARMCPRegInfo size:0x98 DW_AT_decl_file:C:/w/qemu/target/arm/cpregs.h DW_AT_decl_line:838 DW_AT_decl_column:8  
 name:ARMCPRegUserSpaceInfo size:0x20 DW_AT_decl_file:C:\w\qemu\build/../target/arm/cpregs.h DW_AT_decl_line:1012 DW_AT_decl_column:16  
@@ -163,7 +163,7 @@ name:arm_user_regs size:0x48 DW_AT_decl_file:C:\w\qemu\build/../target/arm/arch_
 name:arm_user_vfp_state size:0x0104 DW_AT_decl_file:C:\w\qemu\build/../target/arm/arch_dump.c DW_AT_decl_line:305 DW_AT_decl_column:8  
 name:ARMv7MRAS size:0x0440 DW_AT_decl_file:C:/w/qemu/include/hw/misc/armv7m_ras.h DW_AT_decl_line:29 DW_AT_decl_column:8  
 name:ARMv7MState size:0x32c0 DW_AT_decl_file:C:/w/qemu/include/hw/arm/armv7m.h DW_AT_decl_line:65 DW_AT_decl_column:8  
-name:ARMVAParameters size:0x0c DW_AT_decl_file:C:\w\qemu\build/../target/arm/internals.h DW_AT_decl_line:1335 DW_AT_decl_column:16  
+name:ARMVAParameters size:0x04 DW_AT_decl_file:C:\w\qemu\build/../target/arm/internals.h DW_AT_decl_line:1335 DW_AT_decl_column:16  
 name:ARMVectorReg size:0x0100 align:0x10 DW_AT_decl_file:C:\w\qemu\build/../target/arm/cpu.h DW_AT_decl_line:179 DW_AT_decl_column:16  
 name:ARMVectorReg size:0x0100 align:0x10 DW_AT_decl_file:C:/w/qemu/target/arm/cpu.h DW_AT_decl_line:179 DW_AT_decl_column:16  
 name:ArrayElementList size:0x10 DW_AT_decl_file:C:\w\qemu\build/../hw/core/qdev-properties.c DW_AT_decl_line:550 DW_AT_decl_column:8  
@@ -192,7 +192,7 @@ name:AspeedINTCState size:0x2ce0 DW_AT_decl_file:C:/w/qemu/include/hw/intc/aspee
 name:aspeed_kcs_channel size:0x10 DW_AT_decl_file:C:\w\qemu\build/../hw/misc/aspeed_lpc.c DW_AT_decl_line:71 DW_AT_decl_column:8  
 name:aspeed_kcs_register_data size:0x18 DW_AT_decl_file:C:\w\qemu\build/../hw/misc/aspeed_lpc.c DW_AT_decl_line:109 DW_AT_decl_column:8  
 name:AspeedLPCState size:0x06e0 DW_AT_decl_file:C:/w/qemu/include/hw/misc/aspeed_lpc.h DW_AT_decl_line:30 DW_AT_decl_column:16  
-name:AspeedMachineClass size:0x01d8 DW_AT_decl_file:C:/w/qemu/include/hw/arm/aspeed.h DW_AT_decl_line:28 DW_AT_decl_column:8  
+name:AspeedMachineClass size:0x01d0 DW_AT_decl_file:C:/w/qemu/include/hw/arm/aspeed.h DW_AT_decl_line:28 DW_AT_decl_column:8  
 name:AspeedMachineState size:0x02b0 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/aspeed.c DW_AT_decl_line:38 DW_AT_decl_column:8  
 name:AspeedMiiState size:0x0460 DW_AT_decl_file:C:/w/qemu/include/hw/net/ftgmac100.h DW_AT_decl_line:83 DW_AT_decl_column:8  
 name:AspeedPECIState size:0x0550 DW_AT_decl_file:C:/w/qemu/include/hw/misc/aspeed_peci.h DW_AT_decl_line:19 DW_AT_decl_column:8  
@@ -1902,7 +1902,7 @@ name:GInputStream_autoptr DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gio
 name:_GInputStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:_GInputStream size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gio/ginputstream.h DW_AT_decl_line:44 DW_AT_decl_column:8  
 name:_GInterfaceInfo size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gobject/gtype.h DW_AT_decl_line:1163 DW_AT_decl_column:8  
-name:_GIOChannel size:0x78 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:100 DW_AT_decl_column:8  
+name:_GIOChannel size:0x70 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:100 DW_AT_decl_column:8  
 name:_GIOFuncs size:0x40 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:134 DW_AT_decl_column:8  
 name:_GIOStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:_GIOStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
@@ -2543,7 +2543,7 @@ name:m68k_op_br_disp size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/capston
 name:m68k_op_mem size:0x1c DW_AT_decl_file:C:/msys64/mingw64/include/capstone/m68k.h DW_AT_decl_line:126 DW_AT_decl_column:16  
 name:m68k_op_size size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/capstone/m68k.h DW_AT_decl_line:201 DW_AT_decl_column:16  
 name:MACAddr size:0x06 DW_AT_decl_file:C:/w/qemu/include/net/net.h DW_AT_decl_line:21 DW_AT_decl_column:8  
-name:MachineClass size:0x0190 DW_AT_decl_file:C:/w/qemu/include/hw/boards.h DW_AT_decl_line:260 DW_AT_decl_column:8  
+name:MachineClass size:0x0188 DW_AT_decl_file:C:/w/qemu/include/hw/boards.h DW_AT_decl_line:260 DW_AT_decl_column:8  
 name:MachineInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-machine.h DW_AT_decl_line:398 DW_AT_decl_column:8  
 name:MachineInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-machine.h DW_AT_decl_line:398 DW_AT_decl_column:8  
 name:MachineInfo size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-machine.h DW_AT_decl_line:374 DW_AT_decl_column:8  
@@ -2741,12 +2741,12 @@ name:MPIMsgSCSITaskMgmt size:0x34 DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mpi
 name:MPIRequestHeader size:0x0c DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mpi.h DW_AT_decl_line:214 DW_AT_decl_column:16  
 name:MPISGEntry size:0x0c DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mpi.h DW_AT_decl_line:173 DW_AT_decl_column:16  
 name:MPS2FPGAIO size:0x0580 DW_AT_decl_file:C:/w/qemu/include/hw/misc/mps2-fpgaio.h DW_AT_decl_line:33 DW_AT_decl_column:8  
-name:MPS2MachineClass size:0x01b0 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps2.c DW_AT_decl_line:61 DW_AT_decl_column:8  
+name:MPS2MachineClass size:0x01a8 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps2.c DW_AT_decl_line:61 DW_AT_decl_column:8  
 name:MPS2MachineState size:0x5a50 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps2.c DW_AT_decl_line:70 DW_AT_decl_column:8  
 name:MPS2SCC size:0x04e0 DW_AT_decl_file:C:/w/qemu/include/hw/misc/mps2-scc.h DW_AT_decl_line:40 DW_AT_decl_column:8  
-name:MPS2TZMachineClass size:0x01f0 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps2-tz.c DW_AT_decl_line:113 DW_AT_decl_column:8  
+name:MPS2TZMachineClass size:0x01e8 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps2-tz.c DW_AT_decl_line:113 DW_AT_decl_column:8  
 name:MPS2TZMachineState size:0x00039280 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps2-tz.c DW_AT_decl_line:137 DW_AT_decl_column:8  
-name:MPS3RMachineClass size:0x01a8 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps3r.c DW_AT_decl_line:90 DW_AT_decl_column:8  
+name:MPS3RMachineClass size:0x01a0 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps3r.c DW_AT_decl_line:90 DW_AT_decl_column:8  
 name:MPS3RMachineState size:0xbfd0 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/mps3r.c DW_AT_decl_line:97 DW_AT_decl_column:8  
 name:MPTSASConfigPage size:0x10 DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mptconfig.c DW_AT_decl_line:651 DW_AT_decl_column:16  
 name:MPTSASRequest size:0x78 DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mptsas.c DW_AT_decl_line:50 DW_AT_decl_column:8  
@@ -2769,7 +2769,7 @@ name:MttcgForceRcuNotifier size:0x20 DW_AT_decl_file:C:\w\qemu\build/../accel/tc
 name:MultiFDRecvData size:0x18 DW_AT_decl_file:C:\w\qemu\build/../migration/multifd.h DW_AT_decl_line:86 DW_AT_decl_column:8  
 name:MultiFDSendData size:0x18 DW_AT_decl_file:C:\w\qemu\build/../migration/multifd.h DW_AT_decl_line:102 DW_AT_decl_column:8  
 name:MultiReqBuffer size:0x0108 DW_AT_decl_file:C:/w/qemu/include/hw/virtio/virtio-blk.h DW_AT_decl_line:97 DW_AT_decl_column:16  
-name:MuscaMachineClass size:0x01b0 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/musca.c DW_AT_decl_line:50 DW_AT_decl_column:8  
+name:MuscaMachineClass size:0x01a8 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/musca.c DW_AT_decl_line:50 DW_AT_decl_column:8  
 name:MuscaMachineState size:0x00031bc0 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/musca.c DW_AT_decl_line:60 DW_AT_decl_column:8  
 name:musicpal_gpio_state size:0x0490 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/musicpal.c DW_AT_decl_line:823 DW_AT_decl_column:8  
 name:musicpal_key_state size:0x0378 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/musicpal.c DW_AT_decl_line:1058 DW_AT_decl_column:8  
@@ -2916,7 +2916,7 @@ name:NPCM7xxFIUFlash size:0x0120 DW_AT_decl_file:C:/w/qemu/include/hw/ssi/npcm7x
 name:NPCM7xxFIUState size:0x04e0 DW_AT_decl_file:C:/w/qemu/include/hw/ssi/npcm7xx_fiu.h DW_AT_decl_line:55 DW_AT_decl_column:8  
 name:NPCM7xxGCRState size:0x05a0 DW_AT_decl_file:C:/w/qemu/include/hw/misc/npcm7xx_gcr.h DW_AT_decl_line:58 DW_AT_decl_column:8  
 name:NPCM7xxGPIOState size:0x05f0 DW_AT_decl_file:C:/w/qemu/include/hw/gpio/npcm7xx_gpio.h DW_AT_decl_line:30 DW_AT_decl_column:16  
-name:NPCM7xxMachineClass size:0x0198 DW_AT_decl_file:C:/w/qemu/include/hw/arm/npcm7xx.h DW_AT_decl_line:70 DW_AT_decl_column:16  
+name:NPCM7xxMachineClass size:0x0190 DW_AT_decl_file:C:/w/qemu/include/hw/arm/npcm7xx.h DW_AT_decl_line:70 DW_AT_decl_column:16  
 name:NPCM7xxMachine size:0x0ab8 DW_AT_decl_file:C:/w/qemu/include/hw/arm/npcm7xx.h DW_AT_decl_line:57 DW_AT_decl_column:8  
 name:NPCM7xxMCState size:0x0440 DW_AT_decl_file:C:/w/qemu/include/hw/mem/npcm7xx_mc.h DW_AT_decl_line:27 DW_AT_decl_column:16  
 name:NPCM7xxMFTState size:0x04a0 DW_AT_decl_file:C:/w/qemu/include/hw/misc/npcm7xx_mft.h DW_AT_decl_line:52 DW_AT_decl_column:8  
@@ -4149,7 +4149,7 @@ name:RAMSrcPageRequest size:0x20 DW_AT_decl_file:C:\w\qemu\build/../migration/ra
 name:RAMState size:0x0118 DW_AT_decl_file:C:\w\qemu\build/../migration/ram.c DW_AT_decl_line:355 DW_AT_decl_column:8  
 name:Range size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/range.h DW_AT_decl_line:31 DW_AT_decl_column:8  
 name:Raspi4bMachineState size:0x000f0000 align:16 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/raspi4b.c DW_AT_decl_line:29 DW_AT_decl_column:8  
-name:RaspiBaseMachineClass size:0x0198 DW_AT_decl_file:C:/w/qemu/include/hw/arm/raspi_platform.h DW_AT_decl_line:48 DW_AT_decl_column:8  
+name:RaspiBaseMachineClass size:0x0190 DW_AT_decl_file:C:/w/qemu/include/hw/arm/raspi_platform.h DW_AT_decl_line:48 DW_AT_decl_column:8  
 name:RaspiBaseMachineState size:0x0248 DW_AT_decl_file:C:/w/qemu/include/hw/arm/raspi_platform.h DW_AT_decl_line:41 DW_AT_decl_column:8  
 name:RaspiMachineState size:0x000ea260 align:16 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/raspi.c DW_AT_decl_line:40 DW_AT_decl_column:8  
 name:RateCtl size:0x10 DW_AT_decl_file:C:\w\qemu\build/../audio/audio_int.h DW_AT_decl_line:255 DW_AT_decl_column:16  
@@ -5058,7 +5058,7 @@ name:VersionInfo size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-contr
 name:VersionTriple size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-control.h DW_AT_decl_line:66 DW_AT_decl_column:8  
 name:VersionTriple size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-control.h DW_AT_decl_line:66 DW_AT_decl_column:8  
 name:VEventStruct size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/cacard/eventt.h DW_AT_decl_line:22 DW_AT_decl_column:8  
-name:VexpressMachineClass size:0x0198 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/vexpress.c DW_AT_decl_line:171 DW_AT_decl_column:8  
+name:VexpressMachineClass size:0x0190 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/vexpress.c DW_AT_decl_line:171 DW_AT_decl_column:8  
 name:VexpressMachineState size:0x05d0 DW_AT_decl_file:C:\w\qemu\build/../hw/arm/vexpress.c DW_AT_decl_line:176 DW_AT_decl_column:8  
 name:VfioStats size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-migration.h DW_AT_decl_line:423 DW_AT_decl_column:8  
 name:VfioStats size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-migration.h DW_AT_decl_line:423 DW_AT_decl_column:8  
@@ -5381,7 +5381,7 @@ name:VirtIOSoundPCMStream size:0xb0 DW_AT_decl_file:C:/w/qemu/include/hw/audio/v
 name:VirtIOSound size:0x02b0 DW_AT_decl_file:C:/w/qemu/include/hw/audio/virtio-snd.h DW_AT_decl_line:213 DW_AT_decl_column:8  
 name:VirtioStatus size:0x68 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-virtio.h DW_AT_decl_line:108 DW_AT_decl_column:8  
 name:VirtioStatus size:0x68 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-virtio.h DW_AT_decl_line:108 DW_AT_decl_column:8  
-name:VirtMachineClass size:0x01a8 DW_AT_decl_file:C:/w/qemu/include/hw/arm/virt.h DW_AT_decl_line:118 DW_AT_decl_column:8  
+name:VirtMachineClass size:0x01a0 DW_AT_decl_file:C:/w/qemu/include/hw/arm/virt.h DW_AT_decl_line:118 DW_AT_decl_column:8  
 name:VirtMachineState size:0x0328 DW_AT_decl_file:C:/w/qemu/include/hw/arm/virt.h DW_AT_decl_line:140 DW_AT_decl_column:8  
 name:VirtQueue DW_AT_declaration:true  DW_TAG_pointer_type size:8  
 name:VirtQueue DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 

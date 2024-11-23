@@ -1636,7 +1636,7 @@ name:GInputStream_autoptr DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gio
 name:_GInputStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:_GInputStream size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gio/ginputstream.h DW_AT_decl_line:44 DW_AT_decl_column:8  
 name:_GInterfaceInfo size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gobject/gtype.h DW_AT_decl_line:1163 DW_AT_decl_column:8  
-name:_GIOChannel size:0x78 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:100 DW_AT_decl_column:8  
+name:_GIOChannel size:0x70 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:100 DW_AT_decl_column:8  
 name:_GIOFuncs size:0x40 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:134 DW_AT_decl_column:8  
 name:_GIOStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:_GIOStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
@@ -2294,7 +2294,7 @@ name:m68k_op_br_disp size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/capston
 name:m68k_op_mem size:0x1c DW_AT_decl_file:C:/msys64/mingw64/include/capstone/m68k.h DW_AT_decl_line:126 DW_AT_decl_column:16  
 name:m68k_op_size size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/capstone/m68k.h DW_AT_decl_line:201 DW_AT_decl_column:16  
 name:MACAddr size:0x06 DW_AT_decl_file:C:/w/qemu/include/net/net.h DW_AT_decl_line:21 DW_AT_decl_column:8  
-name:MachineClass size:0x0190 DW_AT_decl_file:C:/w/qemu/include/hw/boards.h DW_AT_decl_line:260 DW_AT_decl_column:8  
+name:MachineClass size:0x0188 DW_AT_decl_file:C:/w/qemu/include/hw/boards.h DW_AT_decl_line:260 DW_AT_decl_column:8  
 name:MachineInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-machine.h DW_AT_decl_line:398 DW_AT_decl_column:8  
 name:MachineInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-machine.h DW_AT_decl_line:398 DW_AT_decl_column:8  
 name:MachineInfo size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-machine.h DW_AT_decl_line:374 DW_AT_decl_column:8  
@@ -2400,7 +2400,7 @@ name:mfi_sg_skinny size:0x10 DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mfi.h DW
 name:mfi_smp_frame size:0x38 DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mfi.h DW_AT_decl_line:533 DW_AT_decl_column:8  
 name:mfi_span size:0x18 DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mfi.h DW_AT_decl_line:1191 DW_AT_decl_column:8  
 name:mfi_stp_frame size:0x48 DW_AT_decl_file:C:\w\qemu\build/../hw/scsi/mfi.h DW_AT_decl_line:542 DW_AT_decl_column:8  
-name:MicrovmMachineClass size:0x01a8 DW_AT_decl_file:C:/w/qemu/include/hw/i386/microvm.h DW_AT_decl_line:77 DW_AT_decl_column:8  
+name:MicrovmMachineClass size:0x01a0 DW_AT_decl_file:C:/w/qemu/include/hw/i386/microvm.h DW_AT_decl_line:77 DW_AT_decl_column:8  
 name:MicrovmMachineState size:0x04e0 DW_AT_decl_file:C:/w/qemu/include/hw/i386/microvm.h DW_AT_decl_line:85 DW_AT_decl_column:8  
 name:mig_cmd_args size:0x10 DW_AT_decl_file:C:\w\qemu\build/../migration/savevm.c DW_AT_decl_line:97 DW_AT_decl_column:15  
 name:MigrateCapsSet size:0x04 DW_AT_decl_file:C:\w\qemu\build/../migration/options.c DW_AT_decl_line:403 DW_AT_decl_column:8  
@@ -2893,7 +2893,7 @@ name:PCITestDevState size:0x0e00 DW_AT_decl_file:C:\w\qemu\build/../hw/misc/pci-
 name:PCIVGAState size:0x00011bd0 DW_AT_decl_file:C:\w\qemu\build/../hw/display/vga-pci.c DW_AT_decl_line:47 DW_AT_decl_column:8  
 name:pci_vmsvga_state_s size:0x00013760 DW_AT_decl_file:C:\w\qemu\build/../hw/display/vmware_vga.c DW_AT_decl_line:92 DW_AT_decl_column:8  
 name:Pcm3680iPCIState size:0x0ec0 DW_AT_decl_file:C:\w\qemu\build/../hw/net/can/can_pcm3680_pci.c DW_AT_decl_line:64 DW_AT_decl_column:8  
-name:PCMachineClass size:0x01c8 DW_AT_decl_file:C:/w/qemu/include/hw/i386/pc.h DW_AT_decl_line:83 DW_AT_decl_column:8  
+name:PCMachineClass size:0x01c0 DW_AT_decl_file:C:/w/qemu/include/hw/i386/pc.h DW_AT_decl_line:83 DW_AT_decl_column:8  
 name:PCMachineState size:0x0730 DW_AT_decl_file:C:/w/qemu/include/hw/i386/pc.h DW_AT_decl_line:24 DW_AT_decl_column:16  
 name:pcnet_initblk16 size:0x18 DW_AT_decl_file:C:\w\qemu\build/../hw/net/pcnet.c DW_AT_decl_line:121 DW_AT_decl_column:8  
 name:pcnet_initblk32 size:0x1c DW_AT_decl_file:C:\w\qemu\build/../hw/net/pcnet.c DW_AT_decl_line:129 DW_AT_decl_column:8  
@@ -5122,7 +5122,7 @@ name:X86IOMMUIrq size:0x0c DW_AT_decl_file:C:/w/qemu/include/hw/i386/x86-iommu.h
 name:X86IOMMU_MSIMessage size:0x10 DW_AT_decl_file:C:/w/qemu/include/hw/i386/x86-iommu.h DW_AT_decl_line:86 DW_AT_decl_column:8  offset:0x00  offset:0x08  
 name:X86IOMMUState size:0x0340 DW_AT_decl_file:C:/w/qemu/include/hw/i386/x86-iommu.h DW_AT_decl_line:62 DW_AT_decl_column:8  
 name:X86LegacyXSaveArea size:0x0200 align:16 DW_AT_decl_file:C:\w\qemu\build/../target/i386/cpu.h DW_AT_decl_line:1539 DW_AT_decl_column:16  
-name:X86MachineClass size:0x0198 DW_AT_decl_file:C:/w/qemu/include/hw/i386/x86.h DW_AT_decl_line:29 DW_AT_decl_column:8  
+name:X86MachineClass size:0x0190 DW_AT_decl_file:C:/w/qemu/include/hw/i386/x86.h DW_AT_decl_line:29 DW_AT_decl_column:8  
 name:X86MachineState size:0x0430 DW_AT_decl_file:C:/w/qemu/include/hw/i386/x86.h DW_AT_decl_line:43 DW_AT_decl_column:8  
 name:X86OpEntry size:0x20 DW_AT_decl_file:C:\w\qemu\build/../target/i386/tcg/decode-new.h DW_AT_decl_line:277 DW_AT_decl_column:8  offset:0x00  
 name:x86_op_mem size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/capstone/x86.h DW_AT_decl_line:267 DW_AT_decl_column:16  

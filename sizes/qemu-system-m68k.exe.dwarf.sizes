@@ -1287,7 +1287,7 @@ name:GInputStream_autoptr DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gio
 name:_GInputStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:_GInputStream size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gio/ginputstream.h DW_AT_decl_line:44 DW_AT_decl_column:8  
 name:_GInterfaceInfo size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gobject/gtype.h DW_AT_decl_line:1163 DW_AT_decl_column:8  
-name:_GIOChannel size:0x78 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:100 DW_AT_decl_column:8  
+name:_GIOChannel size:0x70 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:100 DW_AT_decl_column:8  
 name:_GIOFuncs size:0x40 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:134 DW_AT_decl_column:8  
 name:_GIOStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:_GIOStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
@@ -1795,7 +1795,7 @@ name:MacfbNubusState size:0x0b50 DW_AT_decl_file:C:/w/qemu/include/hw/display/ma
 name:MacFbSense size:0x03 DW_AT_decl_file:C:\w\qemu\build/../hw/display/macfb.c DW_AT_decl_line:79 DW_AT_decl_column:16  
 name:MacfbState size:0x0760 DW_AT_decl_file:C:/w/qemu/include/hw/display/macfb.h DW_AT_decl_line:55 DW_AT_decl_column:16  
 name:MacfbSysBusState size:0x0a90 DW_AT_decl_file:C:/w/qemu/include/hw/display/macfb.h DW_AT_decl_line:78 DW_AT_decl_column:8  
-name:MachineClass size:0x0190 DW_AT_decl_file:C:/w/qemu/include/hw/boards.h DW_AT_decl_line:260 DW_AT_decl_column:8  
+name:MachineClass size:0x0188 DW_AT_decl_file:C:/w/qemu/include/hw/boards.h DW_AT_decl_line:260 DW_AT_decl_column:8  
 name:MachineInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-machine.h DW_AT_decl_line:398 DW_AT_decl_column:8  
 name:MachineInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-machine.h DW_AT_decl_line:398 DW_AT_decl_column:8  
 name:MachineInfo size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-machine.h DW_AT_decl_line:374 DW_AT_decl_column:8  

@@ -1544,7 +1544,7 @@ name:GInputStream_autoptr DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gio
 name:_GInputStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:_GInputStream size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gio/ginputstream.h DW_AT_decl_line:44 DW_AT_decl_column:8  
 name:_GInterfaceInfo size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/gobject/gtype.h DW_AT_decl_line:1163 DW_AT_decl_column:8  
-name:_GIOChannel size:0x78 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:100 DW_AT_decl_column:8  
+name:_GIOChannel size:0x70 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:100 DW_AT_decl_column:8  
 name:_GIOFuncs size:0x40 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/giochannel.h DW_AT_decl_line:134 DW_AT_decl_column:8  
 name:_GIOStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
 name:_GIOStreamPrivate DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
@@ -2150,7 +2150,7 @@ name:m68k_op_br_disp size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/capston
 name:m68k_op_mem size:0x1c DW_AT_decl_file:C:/msys64/mingw64/include/capstone/m68k.h DW_AT_decl_line:126 DW_AT_decl_column:16  
 name:m68k_op_size size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/capstone/m68k.h DW_AT_decl_line:201 DW_AT_decl_column:16  
 name:MACAddr size:0x06 DW_AT_decl_file:C:/w/qemu/include/net/net.h DW_AT_decl_line:21 DW_AT_decl_column:8  
-name:MachineClass size:0x0190 DW_AT_decl_file:C:/w/qemu/include/hw/boards.h DW_AT_decl_line:260 DW_AT_decl_column:8  
+name:MachineClass size:0x0188 DW_AT_decl_file:C:/w/qemu/include/hw/boards.h DW_AT_decl_line:260 DW_AT_decl_column:8  
 name:MachineInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-machine.h DW_AT_decl_line:398 DW_AT_decl_column:8  
 name:MachineInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-machine.h DW_AT_decl_line:398 DW_AT_decl_column:8  
 name:MachineInfo size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-machine.h DW_AT_decl_line:374 DW_AT_decl_column:8  
@@ -2840,7 +2840,7 @@ name:ppc_dcr_t size:0x6010 DW_AT_decl_file:C:\w\qemu\build/../hw/ppc/ppc.c DW_AT
 name:PPC_DFP size:0xd0 DW_AT_decl_file:C:\w\qemu\build/../target/ppc/dfp_helper.c DW_AT_decl_line:62 DW_AT_decl_column:8  
 name:PPCE500CCSRState size:0x0440 DW_AT_decl_file:C:\w\qemu\build/../hw/ppc/e500-ccsr.h DW_AT_decl_line:7 DW_AT_decl_column:8  
 name:PPCE500CCSRState size:0x0440 DW_AT_decl_file:C:/w/qemu/hw/ppc/e500-ccsr.h DW_AT_decl_line:7 DW_AT_decl_column:8  
-name:PPCE500MachineClass size:0x01e8 DW_AT_decl_file:C:\w\qemu\build/../hw/ppc/e500.h DW_AT_decl_line:18 DW_AT_decl_column:8  
+name:PPCE500MachineClass size:0x01e0 DW_AT_decl_file:C:\w\qemu\build/../hw/ppc/e500.h DW_AT_decl_line:18 DW_AT_decl_column:8  
 name:PPCE500MachineState size:0x0180 DW_AT_decl_file:C:\w\qemu\build/../hw/ppc/e500.h DW_AT_decl_line:8 DW_AT_decl_column:8  
 name:PPCE500PCIBridgeState size:0x0bc0 DW_AT_decl_file:C:\w\qemu\build/../hw/pci-host/ppce500.c DW_AT_decl_line:118 DW_AT_decl_column:8  
 name:PPCE500PCIState size:0x15b0 DW_AT_decl_file:C:\w\qemu\build/../hw/pci-host/ppce500.c DW_AT_decl_line:96 DW_AT_decl_column:8  
