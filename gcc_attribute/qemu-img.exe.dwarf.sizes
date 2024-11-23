@@ -1,0 +1,1494 @@
+name:AcpiGenericInitiatorProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:800 DW_AT_decl_column:8  
+name:AcpiGenericInitiatorProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:800 DW_AT_decl_column:8  
+name:AcpiGenericPortProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:808 DW_AT_decl_column:8  
+name:AcpiGenericPortProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:808 DW_AT_decl_column:8  
+name:addrinfo size:0x30 DW_AT_decl_file:C:/msys64/mingw64/include/ws2tcpip.h DW_AT_decl_line:165 DW_AT_decl_column:16  
+name:add_rule_data size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:177 DW_AT_decl_column:8  
+name:AIOCBInfo size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:33 DW_AT_decl_column:16  
+name:AioContext DW_AT_declaration:true  DW_TAG_base_type size:0x10 DW_AT_encoding:DW_ATE_signed 
+name:AioContext size:0x0180 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:126 DW_AT_decl_column:8  
+name:AioCoRescheduleSelf size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/async.c DW_AT_decl_line:656 DW_AT_decl_column:16  
+name:aio_ctx size:0x78 DW_AT_decl_file:C:/w/qemu/build/../qemu-io-cmds.c DW_AT_decl_line:1345 DW_AT_decl_column:8  
+name:AioHandler size:0x50 DW_AT_decl_file:C:\w\qemu\build/../util/aio-win32.c DW_AT_decl_line:28 DW_AT_decl_column:8  
+name:AioTaskPool size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/aio_task.c DW_AT_decl_line:29 DW_AT_decl_column:8  
+name:AioTask size:0x18 DW_AT_decl_file:C:/w/qemu/include/block/aio_task.h DW_AT_decl_line:31 DW_AT_decl_column:8  
+name:anyList size:16 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:168 DW_AT_decl_column:8  
+name:array_t size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:84 DW_AT_decl_column:16  
+name:AuthZListFileProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-authz.h DW_AT_decl_line:80 DW_AT_decl_column:8  
+name:AuthZListFileProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-authz.h DW_AT_decl_line:80 DW_AT_decl_column:8  
+name:AuthZListProperties size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-authz.h DW_AT_decl_line:70 DW_AT_decl_column:8  
+name:AuthZListProperties size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-authz.h DW_AT_decl_line:70 DW_AT_decl_column:8  
+name:AuthZPAMProperties size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-authz.h DW_AT_decl_line:89 DW_AT_decl_column:8  
+name:AuthZPAMProperties size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-authz.h DW_AT_decl_line:89 DW_AT_decl_column:8  
+name:AuthZSimpleProperties size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-authz.h DW_AT_decl_line:96 DW_AT_decl_column:8  
+name:AuthZSimpleProperties size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-authz.h DW_AT_decl_line:96 DW_AT_decl_column:8  
+name:BackupBlockJob size:0x0260 DW_AT_decl_file:C:\w\qemu\build/../block/backup.c DW_AT_decl_line:32 DW_AT_decl_column:16  
+name:BackupCommon size:0x60 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1693 DW_AT_decl_column:8  
+name:BackupPerf size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1679 DW_AT_decl_column:8  
+name:BackupPerf size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1679 DW_AT_decl_column:8  
+name:BdrvAioNotifier size:0x30 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:903 DW_AT_decl_column:16  
+name:BdrvAttachChildCommonState size:0x18 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:3004 DW_AT_decl_column:16  
+name:BDRVBlkdebugState size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:44 DW_AT_decl_column:16  
+name:BdrvBlockStatusAbove size:0x58 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:369 DW_AT_decl_column:16  
+name:BdrvBlockStatusCache size:0x28 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1061 DW_AT_decl_column:16  
+name:BdrvBlockStatus size:0x50 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:316 DW_AT_decl_column:16  
+name:BDRVBochsState size:0x50 DW_AT_decl_file:C:\w\qemu\build/../block/bochs.c DW_AT_decl_line:71 DW_AT_decl_column:16  
+name:BdrvCanStoreNewDirtyBitmap size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:700 DW_AT_decl_column:16  
+name:BdrvChangeBackingFile size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:610 DW_AT_decl_column:16  
+name:BdrvCheckResult size:0x40 DW_AT_decl_file:C:/w/qemu/include/block/block-common.h DW_AT_decl_line:514 DW_AT_decl_column:16  
+name:BdrvCheck size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:798 DW_AT_decl_column:16  
+name:BdrvChildClass size:0x80 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:913 DW_AT_decl_column:8  
+name:BdrvChildSetPermState size:0x18 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:2314 DW_AT_decl_column:16  
+name:BdrvChild size:0x60 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1014 DW_AT_decl_column:8  
+name:BDRVCloopState size:0xb0 DW_AT_decl_file:C:\w\qemu\build/../block/cloop.c DW_AT_decl_line:36 DW_AT_decl_column:16  
+name:BdrvCoActivate size:0x20 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1342 DW_AT_decl_column:16  
+name:BdrvCommonBlockStatusAbove size:0x68 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2535 DW_AT_decl_column:16  
+name:BdrvCoOpenBlockdevRef size:0x20 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1260 DW_AT_decl_column:16  
+name:BdrvCoOpenChild size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1210 DW_AT_decl_column:16  
+name:BdrvCoOpen size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1298 DW_AT_decl_column:16  
+name:BDRVCopyBeforeWriteState size:0x78 DW_AT_decl_file:C:\w\qemu\build/../block/copy-before-write.c DW_AT_decl_line:42 DW_AT_decl_column:16  
+name:BdrvCoUnrefChild size:0x18 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1416 DW_AT_decl_column:16  
+name:BdrvCoUnref size:0x10 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1380 DW_AT_decl_column:16  
+name:BdrvCreate size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1165 DW_AT_decl_column:16  
+name:BDRVCURLState size:0x1088 DW_AT_decl_file:C:\w\qemu\build/../block/curl.c DW_AT_decl_line:106 DW_AT_decl_column:16  
+name:BdrvDebugEvent size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:655 DW_AT_decl_column:16  
+name:BdrvDirtyBitmapIter size:0x40 DW_AT_decl_file:C:\w\qemu\build/../block/dirty-bitmap.c DW_AT_decl_line:59 DW_AT_decl_column:8  
+name:BdrvDirtyBitmap size:0x50 DW_AT_decl_file:C:\w\qemu\build/../block/dirty-bitmap.c DW_AT_decl_line:33 DW_AT_decl_column:8  
+name:BDRVDMGState size:0xd0 DW_AT_decl_file:C:\w\qemu\build/../block/dmg.h DW_AT_decl_line:32 DW_AT_decl_column:16  
+name:BdrvFlush size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:890 DW_AT_decl_column:16  
+name:BdrvGetAllocatedFileSize size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:277 DW_AT_decl_column:16  
+name:BdrvGetInfo size:0x30 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:565 DW_AT_decl_column:16  
+name:BdrvGetlength size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:234 DW_AT_decl_column:16  
+name:BdrvGraphLock size:0x00 DW_AT_decl_file:C:/w/qemu/include/block/graph-lock.h DW_AT_decl_line:59 DW_AT_decl_column:40  DW_TAG_typedef 
+name:BdrvGraphRWlock DW_AT_declaration:true  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/qemu/module.h DW_AT_decl_line:42 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:BdrvGraphRWlock size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/graph-lock.c DW_AT_decl_line:50 DW_AT_decl_column:8  
+name:BdrvInvalidateCache size:0x30 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:845 DW_AT_decl_column:16  
+name:BdrvIsAllocatedAbove size:0x50 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:473 DW_AT_decl_column:16  
+name:BdrvIsAllocated size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:424 DW_AT_decl_column:16  
+name:BdrvIsInserted size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:526 DW_AT_decl_column:16  
+name:BDRVNBDState size:0x02f8 DW_AT_decl_file:C:\w\qemu\build/../block/nbd.c DW_AT_decl_line:68 DW_AT_decl_column:16  
+name:BdrvNextIterator size:0x18 DW_AT_decl_file:C:/w/qemu/include/block/block-global-state.h DW_AT_decl_line:210 DW_AT_decl_column:16  
+name:BdrvOpBlocker size:0x18 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:7150 DW_AT_decl_column:8  
+name:BDRVParallelsState size:0xa0 DW_AT_decl_file:C:\w\qemu\build/../block/parallels.h DW_AT_decl_line:61 DW_AT_decl_column:16  
+name:BdrvPdiscard size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:933 DW_AT_decl_column:16  
+name:BdrvPollCo size:0x18 DW_AT_decl_file:C:/w/qemu/block/block-gen.h DW_AT_decl_line:32 DW_AT_decl_column:16  
+name:BdrvPread size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:81 DW_AT_decl_column:16  
+name:BDRVPreallocateState size:0x30 DW_AT_decl_file:C:\w\qemu\build/../block/preallocate.c DW_AT_decl_line:42 DW_AT_decl_column:16  
+name:BdrvPwrite size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:132 DW_AT_decl_column:16  
+name:BdrvPwriteSync size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:183 DW_AT_decl_column:16  
+name:BdrvPwriteZeroes size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:32 DW_AT_decl_column:16  
+name:BDRVQcow2State size:0x01f0 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:327 DW_AT_decl_column:16  
+name:BDRVQcowState size:0x0158 DW_AT_decl_file:C:\w\qemu\build/../block/qcow.c DW_AT_decl_line:72 DW_AT_decl_column:16  
+name:BDRVQuorumState size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:73 DW_AT_decl_column:16  
+name:BDRVRawReopenState size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/file-win32.c DW_AT_decl_line:62 DW_AT_decl_column:16  
+name:BDRVRawState size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/raw-format.c DW_AT_decl_line:37 DW_AT_decl_column:16  
+name:BDRVRawState size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/file-win32.c DW_AT_decl_line:55 DW_AT_decl_column:16  
+name:BdrvReadvVmstate size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:980 DW_AT_decl_column:16  
+name:BdrvRefreshLimitsState size:0x80 DW_AT_decl_file:C:\w\qemu\build/../block/io.c DW_AT_decl_line:151 DW_AT_decl_column:16  
+name:BdrvRefreshTotalSectors size:0x30 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1119 DW_AT_decl_column:16  
+name:BdrvRemovePersistentDirtyBitmap size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1075 DW_AT_decl_column:16  
+name:BDRVReopenState size:0x40 DW_AT_decl_file:C:/w/qemu/include/block/block-common.h DW_AT_decl_line:337 DW_AT_decl_column:16  
+name:BdrvReplaceChildState size:0x10 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:2408 DW_AT_decl_column:16  
+name:BDRVReplicationState size:0x48 DW_AT_decl_file:C:\w\qemu\build/../block/replication.c DW_AT_decl_line:35 DW_AT_decl_column:16  
+name:BdrvRequestPadding size:0x90 DW_AT_decl_file:C:\w\qemu\build/../block/io.c DW_AT_decl_line:1456 DW_AT_decl_column:16  
+name:BdrvSetInheritsFrom size:0x10 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:3303 DW_AT_decl_column:16  
+name:BDRVSSHRestart size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/ssh.c DW_AT_decl_line:1015 DW_AT_decl_column:16  
+name:BDRVSSHState size:0x70 DW_AT_decl_file:C:\w\qemu\build/../block/ssh.c DW_AT_decl_line:55 DW_AT_decl_column:16  
+name:BdrvStateBlkRootContext size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/block-backend.c DW_AT_decl_line:2404 DW_AT_decl_column:16  
+name:BdrvStateChildJobContext size:0x10 DW_AT_decl_file:C:/w/qemu/build/../blockjob.c DW_AT_decl_line:129 DW_AT_decl_column:16  
+name:BDRVStateCOR size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/copy-on-read.c DW_AT_decl_line:32 DW_AT_decl_column:16  
+name:BdrvStateSetAioContext size:0x10 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:7510 DW_AT_decl_column:16  
+name:BdrvTrackedRequest size:0x60 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:76 DW_AT_decl_column:16  
+name:BdrvTruncate size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:745 DW_AT_decl_column:16  
+name:BDRVVHDXState size:0x0258 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:356 DW_AT_decl_column:16  
+name:BDRVVmdkReopenState size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:180 DW_AT_decl_column:16  
+name:BDRVVmdkState size:0x60 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:166 DW_AT_decl_column:16  
+name:BDRVVPCState size:0x0270 DW_AT_decl_file:C:\w\qemu\build/../block/vpc.c DW_AT_decl_line:137 DW_AT_decl_column:16  
+name:BDRVVVFATState size:0x8138 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:300 DW_AT_decl_column:16  
+name:BdrvWritevVmstate size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1027 DW_AT_decl_column:16  
+name:BenchData size:0x50 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:4413 DW_AT_decl_column:16  
+name:BHListSlice size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:119 DW_AT_decl_column:8  
+name:BHListSlice size:16 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:119 DW_AT_decl_column:8  
+name:__Bigint size:0x20 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/gdtoa/gdtoaimp.h DW_AT_decl_line:478 DW_AT_decl_column:1  
+name:BitmapCheckFlags DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/block/dirty-bitmap.h DW_AT_decl_line:8 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:BlkAioEmAIOCB size:0x58 DW_AT_decl_file:C:\w\qemu\build/../block/block-backend.c DW_AT_decl_line:1538 DW_AT_decl_column:16  
+name:BlkCoNewOpen size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1497 DW_AT_decl_column:16  
+name:BlkCoNewWithBs size:0x30 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1455 DW_AT_decl_column:16  
+name:BlkCoUnref size:0x10 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1541 DW_AT_decl_column:16  
+name:BlkdebugInjectErrorOptionsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2508 DW_AT_decl_column:8  
+name:BlkdebugInjectErrorOptionsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2508 DW_AT_decl_column:8  
+name:BlkdebugInjectErrorOptions size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2479 DW_AT_decl_column:8  
+name:BlkdebugInjectErrorOptions size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2479 DW_AT_decl_column:8  
+name:BlkdebugRule size:0x48 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:86 DW_AT_decl_column:16  
+name:BlkdebugSetStateOptionsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2516 DW_AT_decl_column:8  
+name:BlkdebugSetStateOptionsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2516 DW_AT_decl_column:8  
+name:BlkdebugSetStateOptions size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2498 DW_AT_decl_column:8  
+name:BlkdebugSetStateOptions size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2498 DW_AT_decl_column:8  
+name:BlkdebugSuspendedReq size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:70 DW_AT_decl_column:16  
+name:BlkEject size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1705 DW_AT_decl_column:16  
+name:BlkFlush size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2391 DW_AT_decl_column:16  
+name:BlkGetlength size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1746 DW_AT_decl_column:16  
+name:BlkIoctl size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2434 DW_AT_decl_column:16  
+name:BlkIsAvailable size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1621 DW_AT_decl_column:16  
+name:BlkIsInserted size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1578 DW_AT_decl_column:16  
+name:BlkLockMedium size:0x28 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1664 DW_AT_decl_column:16  
+name:BlkLogWritesFileReq size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/blklogwrites.c DW_AT_decl_line:341 DW_AT_decl_column:16  
+name:BlkPdiscard size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2344 DW_AT_decl_column:16  
+name:BlkPread size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1789 DW_AT_decl_column:16  
+name:BlkPreadvPart size:0x50 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1891 DW_AT_decl_column:16  
+name:BlkPreadv size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1840 DW_AT_decl_column:16  
+name:BlkPwriteCompressed size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2099 DW_AT_decl_column:16  
+name:BlkPwrite size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1944 DW_AT_decl_column:16  
+name:BlkPwritevPart size:0x50 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2046 DW_AT_decl_column:16  
+name:BlkPwritev size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:1995 DW_AT_decl_column:16  
+name:BlkPwriteZeroes size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2148 DW_AT_decl_column:16  
+name:BlkRwCo size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/block-backend.c DW_AT_decl_line:1485 DW_AT_decl_column:16  
+name:BlkTruncate size:0x48 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2481 DW_AT_decl_column:16  
+name:BlkverifyRequest size:0x58 DW_AT_decl_file:C:\w\qemu\build/../block/blkverify.c DW_AT_decl_line:26 DW_AT_decl_column:16  
+name:BlkZoneAppend size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2295 DW_AT_decl_column:16  
+name:BlkZoneMgmt size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2246 DW_AT_decl_column:16  
+name:BlkZoneReport size:0x40 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2197 DW_AT_decl_column:16  
+name:BlockAcctCookie size:0x18 DW_AT_decl_file:C:/w/qemu/include/block/accounting.h DW_AT_decl_line:97 DW_AT_decl_column:16  
+name:BlockAcctStats size:0x01e0 DW_AT_decl_file:C:/w/qemu/include/block/accounting.h DW_AT_decl_line:82 DW_AT_decl_column:8  
+name:BlockAcctTimedStats size:0x0258 DW_AT_decl_file:C:/w/qemu/include/block/accounting.h DW_AT_decl_line:45 DW_AT_decl_column:8  
+name:BlockAIOCB size:0x28 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:38 DW_AT_decl_column:8  
+name:BlockBackendAIOCB size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/block-backend.c DW_AT_decl_line:97 DW_AT_decl_column:16  
+name:BlockBackendAioNotifier size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/block-backend.c DW_AT_decl_line:36 DW_AT_decl_column:16  
+name:BlockBackendPublic size:0xb0 DW_AT_decl_file:C:/w/qemu/include/sysemu/block-backend-common.h DW_AT_decl_line:99 DW_AT_decl_column:16  
+name:BlockBackendRootState size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1259 DW_AT_decl_column:8  
+name:BlockBackend size:0x0388 DW_AT_decl_file:C:\w\qemu\build/../block/block-backend.c DW_AT_decl_line:43 DW_AT_decl_column:8  
+name:BlockChildInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1237 DW_AT_decl_column:8  
+name:BlockChildInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1237 DW_AT_decl_column:8  
+name:BlockChildInfo size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1229 DW_AT_decl_column:8  
+name:BlockChildInfo size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1229 DW_AT_decl_column:8  
+name:BlockCopyCallState size:0x78 DW_AT_decl_file:C:\w\qemu\build/../block/block-copy.c DW_AT_decl_line:49 DW_AT_decl_column:16  
+name:BlockCopyState size:0xe0 DW_AT_decl_file:C:\w\qemu\build/../block/block-copy.c DW_AT_decl_line:115 DW_AT_decl_column:16  
+name:BlockCopyTask size:0x60 DW_AT_decl_file:C:\w\qemu\build/../block/block-copy.c DW_AT_decl_line:83 DW_AT_decl_column:16  
+name:BlockCryptoCreateData size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/crypto.c DW_AT_decl_line:106 DW_AT_decl_column:8  
+name:BlockCrypto size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/crypto.c DW_AT_decl_line:39 DW_AT_decl_column:8  
+name:BlockdevAmendJob size:0x0118 DW_AT_decl_file:C:\w\qemu\build/../block/amend.c DW_AT_decl_line:38 DW_AT_decl_column:16  
+name:BlockdevAmendOptionsLUKS size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3455 DW_AT_decl_column:8  
+name:BlockdevAmendOptionsLUKS size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3455 DW_AT_decl_column:8  
+name:BlockdevAmendOptionsQcow2 size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3476 DW_AT_decl_column:8  
+name:BlockdevAmendOptionsQcow2 size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3476 DW_AT_decl_column:8  
+name:BlockdevAmendOptions size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3487 DW_AT_decl_column:8  
+name:BlockdevAmendOptions size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3487 DW_AT_decl_column:8  
+name:BlockdevBackup size:0x68 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1760 DW_AT_decl_column:8  
+name:BlockdevCacheInfo size:0x03 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1321 DW_AT_decl_column:8  
+name:BlockdevCacheInfo size:0x03 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1321 DW_AT_decl_column:8  
+name:BlockdevCacheOptions size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2207 DW_AT_decl_column:8  
+name:BlockdevCacheOptions size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2207 DW_AT_decl_column:8  
+name:BlockdevCreateJob size:0x0110 DW_AT_decl_file:C:\w\qemu\build/../block/create.c DW_AT_decl_line:34 DW_AT_decl_column:16  
+name:BlockdevCreateOptionsFile size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3220 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsFile size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3220 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsGluster size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3234 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsGluster size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3234 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsLUKS size:0x60 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3244 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsLUKS size:0x60 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3244 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsNfs size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3275 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsNfs size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3275 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsParallels size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3283 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsParallels size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3283 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsQcow2 size:0x70 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3303 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsQcow2 size:0x70 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3303 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsQcow size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3293 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsQcow size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3293 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsQed size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3332 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsQed size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3332 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsRbd size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3347 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsRbd size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3347 DW_AT_decl_column:8  
+name:BlockdevCreateOptions size:0x78 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3427 DW_AT_decl_column:8  
+name:BlockdevCreateOptions size:0x78 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3427 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsSsh size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3377 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsSsh size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3377 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsVdi size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3385 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsVdi size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3385 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsVhdx size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3395 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsVhdx size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3395 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsVmdk size:0x50 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3358 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsVmdk size:0x50 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3358 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsVpc size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3411 DW_AT_decl_column:8  
+name:BlockdevCreateOptionsVpc size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3411 DW_AT_decl_column:8  
+name:BlockDeviceInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1828 DW_AT_decl_column:8  
+name:BlockDeviceInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1828 DW_AT_decl_column:8  
+name:BlockDeviceInfo size:0x0168 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1338 DW_AT_decl_column:8  
+name:BlockDeviceInfo size:0x0168 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1338 DW_AT_decl_column:8  
+name:BlockDeviceStats size:0x0128 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1493 DW_AT_decl_column:8  
+name:BlockDeviceStats size:0x0128 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1493 DW_AT_decl_column:8  
+name:BlockDeviceTimedStatsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1485 DW_AT_decl_column:8  
+name:BlockDeviceTimedStatsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1485 DW_AT_decl_column:8  
+name:BlockDeviceTimedStats size:0x80 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1463 DW_AT_decl_column:8  
+name:BlockDeviceTimedStats size:0x80 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1463 DW_AT_decl_column:8  
+name:BlockDevOps size:0x40 DW_AT_decl_file:C:/w/qemu/include/sysemu/block-backend-common.h DW_AT_decl_line:29 DW_AT_decl_column:16  
+name:BlockdevOptionsBlkdebug size:0x88 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2524 DW_AT_decl_column:8  
+name:BlockdevOptionsBlkdebug size:0x88 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2524 DW_AT_decl_column:8  
+name:BlockdevOptionsBlklogwrites size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2552 DW_AT_decl_column:8  
+name:BlockdevOptionsBlklogwrites size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2552 DW_AT_decl_column:8  
+name:BlockdevOptionsBlkreplay size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2574 DW_AT_decl_column:8  
+name:BlockdevOptionsBlkreplay size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2574 DW_AT_decl_column:8  
+name:BlockdevOptionsBlkverify size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2566 DW_AT_decl_column:8  
+name:BlockdevOptionsBlkverify size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2566 DW_AT_decl_column:8  
+name:BlockdevOptionsCbw size:0x38 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3059 DW_AT_decl_column:8  
+name:BlockdevOptionsCbw size:0x38 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3059 DW_AT_decl_column:8  
+name:BlockdevOptionsCor size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3044 DW_AT_decl_column:8  
+name:BlockdevOptionsCor size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3044 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlBase size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2892 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlFtp size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2957 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlFtp size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2957 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlFtps size:0x50 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2979 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlFtps size:0x50 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2979 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlHttp size:0x58 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2907 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlHttp size:0x58 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2907 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlHttps size:0x60 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2931 DW_AT_decl_column:8  
+name:BlockdevOptionsCurlHttps size:0x60 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2931 DW_AT_decl_column:8  
+name:BlockdevOptionsFile size:0x38 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2217 DW_AT_decl_column:8  
+name:BlockdevOptionsFile size:0x38 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2217 DW_AT_decl_column:8  
+name:BlockdevOptionsGenericCOWFormat size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2294 DW_AT_decl_column:8  
+name:BlockdevOptionsGenericCOWFormat size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2294 DW_AT_decl_column:8  
+name:BlockdevOptionsGenericFormat size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2271 DW_AT_decl_column:8  
+name:BlockdevOptionsGenericFormat size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2271 DW_AT_decl_column:8  
+name:BlockdevOptionsGluster size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2603 DW_AT_decl_column:8  
+name:BlockdevOptionsGluster size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2603 DW_AT_decl_column:8  
+name:BlockdevOptionsIscsi size:0x58 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2670 DW_AT_decl_column:8  
+name:BlockdevOptionsIscsi size:0x58 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2670 DW_AT_decl_column:8  
+name:BlockdevOptionsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3204 DW_AT_decl_column:8  
+name:BlockdevOptionsLUKS size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2278 DW_AT_decl_column:8  
+name:BlockdevOptionsLUKS size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2278 DW_AT_decl_column:8  
+name:BlockdevOptionsNbd size:0x38 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3003 DW_AT_decl_column:8  
+name:BlockdevOptionsNbd size:0x38 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3003 DW_AT_decl_column:8  
+name:BlockdevOptionsNfs size:0x70 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2872 DW_AT_decl_column:8  
+name:BlockdevOptionsNfs size:0x70 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2872 DW_AT_decl_column:8  
+name:BlockdevOptionsNull size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2237 DW_AT_decl_column:8  
+name:BlockdevOptionsNull size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2237 DW_AT_decl_column:8  
+name:BlockdevOptionsNVMe size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2249 DW_AT_decl_column:8  
+name:BlockdevOptionsNVMe size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2249 DW_AT_decl_column:8  
+name:BlockdevOptionsPreallocate size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2391 DW_AT_decl_column:8  
+name:BlockdevOptionsPreallocate size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2391 DW_AT_decl_column:8  
+name:BlockdevOptionsQcow2 size:0x88 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2409 DW_AT_decl_column:8  
+name:BlockdevOptionsQcow2 size:0x88 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2409 DW_AT_decl_column:8  
+name:BlockdevOptionsQcow size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2360 DW_AT_decl_column:8  
+name:BlockdevOptionsQcow size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2360 DW_AT_decl_column:8  
+name:BlockdevOptionsQuorum size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2589 DW_AT_decl_column:8  
+name:BlockdevOptionsQuorum size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2589 DW_AT_decl_column:8  
+name:BlockdevOptionsRaw size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3018 DW_AT_decl_column:8  
+name:BlockdevOptionsRaw size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3018 DW_AT_decl_column:8  
+name:BlockdevOptionsRbd size:0x60 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2826 DW_AT_decl_column:8  
+name:BlockdevOptionsRbd size:0x60 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2826 DW_AT_decl_column:8  
+name:BlockdevOptionsReplication size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2845 DW_AT_decl_column:8  
+name:BlockdevOptionsReplication size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2845 DW_AT_decl_column:8  
+name:BlockdevOptions size:0xb8 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3097 DW_AT_decl_column:8  
+name:BlockdevOptions size:0xb8 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3097 DW_AT_decl_column:8  
+name:BlockdevOptionsSsh size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2469 DW_AT_decl_column:8  
+name:BlockdevOptionsSsh size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2469 DW_AT_decl_column:8  
+name:BlockdevOptionsThrottle size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3036 DW_AT_decl_column:8  
+name:BlockdevOptionsThrottle size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3036 DW_AT_decl_column:8  
+name:BlockdevOptionsVVFAT size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2257 DW_AT_decl_column:8  
+name:BlockdevOptionsVVFAT size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2257 DW_AT_decl_column:8  
+name:BlockdevQcow2Encryption size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2380 DW_AT_decl_column:8  
+name:BlockdevQcow2Encryption size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2380 DW_AT_decl_column:8  
+name:BlockdevQcowEncryption size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2350 DW_AT_decl_column:8  
+name:BlockdevQcowEncryption size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2350 DW_AT_decl_column:8  
+name:BlockdevRefList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2581 DW_AT_decl_column:8  
+name:BlockdevRefList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2581 DW_AT_decl_column:8  
+name:BlockdevRefOrNull size:0xc0 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3192 DW_AT_decl_column:8  
+name:BlockdevRefOrNull size:0xc0 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3192 DW_AT_decl_column:8  
+name:BlockdevRef size:0xc0 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3181 DW_AT_decl_column:8  
+name:BlockdevRef size:0xc0 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3181 DW_AT_decl_column:8  
+name:BlockdevSnapshotInternal size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3602 DW_AT_decl_column:8  
+name:BlockdevSnapshot size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1671 DW_AT_decl_column:8  
+name:BlockdevSnapshotSync size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1658 DW_AT_decl_column:8  
+name:BlockDirtyBitmapAdd size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1929 DW_AT_decl_column:8  
+name:BlockDirtyBitmapMerge size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1962 DW_AT_decl_column:8  
+name:BlockDirtyBitmapOrStrList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1954 DW_AT_decl_column:8  
+name:BlockDirtyBitmapOrStrList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1954 DW_AT_decl_column:8  
+name:BlockDirtyBitmapOrStr size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1943 DW_AT_decl_column:8  
+name:BlockDirtyBitmapOrStr size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1943 DW_AT_decl_column:8  
+name:BlockDirtyBitmapSha256 size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1971 DW_AT_decl_column:8  
+name:BlockDirtyBitmap size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1921 DW_AT_decl_column:8  
+name:BlockDirtyBitmap size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1921 DW_AT_decl_column:8  
+name:BlockDirtyInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1330 DW_AT_decl_column:8  
+name:BlockDirtyInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1330 DW_AT_decl_column:8  
+name:BlockDirtyInfo size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1390 DW_AT_decl_column:8  
+name:BlockDirtyInfo size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1390 DW_AT_decl_column:8  
+name:BlockDriverInfo size:0x18 DW_AT_decl_file:C:/w/qemu/include/block/block-common.h DW_AT_decl_line:136 DW_AT_decl_column:16  
+name:BlockDriver size:0x0350 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:94 DW_AT_decl_column:8  
+name:BlockDriverState DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:BlockDriverState size:0x06d8 align:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1069 DW_AT_decl_column:8  
+name:BlockFragInfo size:0x20 DW_AT_decl_file:C:/w/qemu/include/block/block-common.h DW_AT_decl_line:153 DW_AT_decl_column:16  
+name:BlockGraphInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:3616 DW_AT_decl_column:8  
+name:BlockGraphInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3616 DW_AT_decl_column:8  
+name:BlockGraphInfo size:0x78 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1245 DW_AT_decl_column:8  
+name:BlockGraphInfo size:0x78 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1245 DW_AT_decl_column:8  
+name:BlockInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1455 DW_AT_decl_column:8  
+name:BlockInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1455 DW_AT_decl_column:8  
+name:BlockInfo size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1429 DW_AT_decl_column:8  
+name:BlockInfo size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1429 DW_AT_decl_column:8  
+name:BlockIOThrottle size:0x0118 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2003 DW_AT_decl_column:8  
+name:BlockJobChangeOptionsMirror size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2184 DW_AT_decl_column:8  
+name:BlockJobChangeOptionsMirror size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2184 DW_AT_decl_column:8  
+name:BlockJobChangeOptions size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2196 DW_AT_decl_column:8  
+name:BlockJobChangeOptions size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2196 DW_AT_decl_column:8  
+name:BlockJobDriver size:0x90 DW_AT_decl_file:C:/w/qemu/include/block/blockjob_int.h DW_AT_decl_line:36 DW_AT_decl_column:8  
+name:BlockJobInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1644 DW_AT_decl_column:8  
+name:BlockJobInfoMirror size:0x01 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1599 DW_AT_decl_column:8  
+name:BlockJobInfoMirror size:0x01 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1599 DW_AT_decl_column:8  
+name:BlockJobInfo size:0x50 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1622 DW_AT_decl_column:8  
+name:BlockJobInfo size:0x50 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1622 DW_AT_decl_column:8  
+name:BlockJob size:0x01d8 DW_AT_decl_file:C:/w/qemu/include/block/blockjob.h DW_AT_decl_line:42 DW_AT_decl_column:16  
+name:BlockLatencyHistogramInfo size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1421 DW_AT_decl_column:8  
+name:BlockLatencyHistogramInfo size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1421 DW_AT_decl_column:8  
+name:BlockLatencyHistogram size:0x18 DW_AT_decl_file:C:/w/qemu/include/block/accounting.h DW_AT_decl_line:52 DW_AT_decl_column:16  
+name:BlockLimits size:0x78 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:792 DW_AT_decl_column:16  
+name:BlockMeasureInfo size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1445 DW_AT_decl_column:8  
+name:BlockMeasureInfo size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1445 DW_AT_decl_column:8  
+name:BlockNodeInfo size:0x70 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1171 DW_AT_decl_column:8  
+name:BlockNodeInfo size:0x70 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1171 DW_AT_decl_column:8  
+name:BlockPermissionList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1845 DW_AT_decl_column:8  
+name:BlockPermissionList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1845 DW_AT_decl_column:8  
+name:BlockReopenQueueEntry DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:BlockReopenQueueEntry size:0x58 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:2147 DW_AT_decl_column:16  
+name:BlockReq size:0x30 DW_AT_decl_file:C:/w/qemu/include/block/reqlist.h DW_AT_decl_line:26 DW_AT_decl_column:16  
+name:BlockSizes size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block-common.h DW_AT_decl_line:529 DW_AT_decl_column:16  
+name:BlockStatsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1591 DW_AT_decl_column:8  
+name:BlockStatsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1591 DW_AT_decl_column:8  
+name:BlockStats size:0x38 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1573 DW_AT_decl_column:8  
+name:BlockStats size:0x38 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1573 DW_AT_decl_column:8  
+name:BlockStatsSpecificFile size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1537 DW_AT_decl_column:8  
+name:BlockStatsSpecificFile size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1537 DW_AT_decl_column:8  
+name:BlockStatsSpecificNvme size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1546 DW_AT_decl_column:8  
+name:BlockStatsSpecificNvme size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1546 DW_AT_decl_column:8  
+name:BlockStatsSpecific size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1559 DW_AT_decl_column:8  
+name:BlockStatsSpecific size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1559 DW_AT_decl_column:8  
+name:BlockZoneDescriptor size:0x28 DW_AT_decl_file:C:/w/qemu/include/block/block-common.h DW_AT_decl_line:119 DW_AT_decl_column:16  
+name:BlockZoneWps size:0x30 DW_AT_decl_file:C:/w/qemu/include/block/block-common.h DW_AT_decl_line:131 DW_AT_decl_column:16  
+name:bochs_header size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/bochs.c DW_AT_decl_line:46 DW_AT_decl_column:8  
+name:_Bool  DW_TAG_base_type size:0x10 DW_AT_encoding:DW_ATE_signed 
+name:_Bool  DW_TAG_pointer_type size:8  
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/w/qemu/include/qemu/module.h DW_AT_decl_line:42 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/qemu/module.h DW_AT_decl_line:42 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_base_type size:0x10 DW_AT_encoding:DW_ATE_signed 
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_subprogram DW_AT_external:true 
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:_Bool  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_variable 
+name:boolList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:160 DW_AT_decl_column:8  
+name:BoolProperty size:0x10 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:2316 DW_AT_decl_column:16  
+name:bootsector_t size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:176 DW_AT_decl_column:16  
+name:Buffer size:0x28 DW_AT_decl_file:C:/w/qemu/include/qemu/buffer.h DW_AT_decl_line:35 DW_AT_decl_column:8  
+name:BusChild size:0x30 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:355 DW_AT_decl_column:16  
+name:BusState size:0x78 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:378 DW_AT_decl_column:8  
+name:_BY_HANDLE_FILE_INFORMATION size:0x34 DW_AT_decl_file:D:/a/msys64/mingw64/include/fileapi.h DW_AT_decl_line:36 DW_AT_decl_column:18  
+name:CachedL2Table size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/qed.h DW_AT_decl_line:110 DW_AT_decl_column:16  
+name:cmdinfo size:0x48 DW_AT_decl_file:C:/w/qemu/include/qemu-io.h DW_AT_decl_line:32 DW_AT_decl_column:16  
+name:ColoCompareProperties size:0x50 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:292 DW_AT_decl_column:8  
+name:ColoCompareProperties size:0x50 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:292 DW_AT_decl_column:8  
+name:CommitBlockJob size:0x0218 DW_AT_decl_file:C:\w\qemu\build/../block/commit.c DW_AT_decl_line:34 DW_AT_decl_column:16  
+name:commit_t size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:1588 DW_AT_decl_column:16  
+name:CommonBlockJobCBInfo size:0x10 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:900 DW_AT_decl_column:16  
+name:CompatPolicy size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-compat.h DW_AT_decl_line:43 DW_AT_decl_column:8  
+name:CoMutex size:0x30 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine.h DW_AT_decl_line:48 DW_AT_decl_column:8  
+name:_CONTEXT size:0x04d0 align:16 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:1839 DW_AT_decl_column:37  
+name:_CONTEXT size:0x04d0 align:16 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:1839 DW_AT_decl_column:37  
+name:CoQueue size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine.h DW_AT_decl_line:94 DW_AT_decl_column:16  
+name:CoQueue size:16 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine.h DW_AT_decl_line:94 DW_AT_decl_column:16  
+name:Coroutine DW_AT_declaration:true  DW_TAG_base_type size:0x10 DW_AT_encoding:DW_ATE_signed 
+name:CoroutineEntry DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine-core.h DW_AT_decl_line:69 DW_AT_decl_column:27  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:CoroutineEntry DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine-core.h DW_AT_decl_line:69 DW_AT_decl_column:27  DW_TAG_base_type size:0x10 DW_AT_encoding:DW_ATE_signed 
+name:CoroutineIOCompletion size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/io.c DW_AT_decl_line:960 DW_AT_decl_column:16  
+name:CoroutinePoolBatch size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine.c DW_AT_decl_line:48 DW_AT_decl_column:16  
+name:Coroutine size:0x58 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine_int.h DW_AT_decl_line:44 DW_AT_decl_column:8  
+name:CoRwlock size:0x48 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine.h DW_AT_decl_line:172 DW_AT_decl_column:16  
+name:CoRwTicket size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine-lock.c DW_AT_decl_line:332 DW_AT_decl_column:8  
+name:CountItersData size:0x40 DW_AT_decl_file:C:\w\qemu\build/../crypto/pbkdf.c DW_AT_decl_line:89 DW_AT_decl_column:16  
+name:CoWaitRecord DW_AT_declaration:true  DW_TAG_pointer_type size:8  
+name:CoWaitRecord DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  
+name:CoWaitRecord DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  
+name:CoWaitRecord DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:CoWaitRecord DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:CoWaitRecord DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:CoWaitRecord DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:CoWaitRecord size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine-lock.c DW_AT_decl_line:137 DW_AT_decl_column:16  
+name:CryptodevBackendProperties size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:311 DW_AT_decl_column:8  
+name:CryptodevBackendProperties size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:311 DW_AT_decl_column:8  
+name:CURLAIOCB size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/curl.c DW_AT_decl_line:75 DW_AT_decl_column:16  
+name:CURLMsg size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/curl/multi.h DW_AT_decl_line:97 DW_AT_decl_column:8  
+name:CURLSocket size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/curl.c DW_AT_decl_line:87 DW_AT_decl_column:16  
+name:CURLState size:0x01f8 DW_AT_decl_file:C:\w\qemu\build/../block/curl.c DW_AT_decl_line:92 DW_AT_decl_column:16  
+name:DBusVMStateProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:347 DW_AT_decl_column:8  
+name:DBusVMStateProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:347 DW_AT_decl_column:8  
+name:DdInfo size:0x10 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:4996 DW_AT_decl_column:8  
+name:DdIo size:0x20 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:5001 DW_AT_decl_column:8  
+name:DdOpts size:0x18 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:5008 DW_AT_decl_column:8  
+name:DeviceCategory DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:79 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:DeviceCategory DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:79 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:DeviceState size:0xa0 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:220 DW_AT_decl_column:8  
+name:direntry_t size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:244 DW_AT_decl_column:16  
+name:dirent size:0x010c DW_AT_decl_file:C:/msys64/mingw64/include/dirent.h DW_AT_decl_line:25 DW_AT_decl_column:8  
+name:dirent size:0x010c DW_AT_decl_file:D:/a/msys64/mingw64/include/dirent.h DW_AT_decl_line:25 DW_AT_decl_column:8  
+name:_DISK_GEOMETRY_EX size:0x28 DW_AT_decl_file:C:/msys64/mingw64/include/winioctl.h DW_AT_decl_line:939 DW_AT_decl_column:16  
+name:_DISK_GEOMETRY size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/winioctl.h DW_AT_decl_line:742 DW_AT_decl_column:16  
+name:DmgHeaderState size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/dmg.c DW_AT_decl_line:191 DW_AT_decl_column:16  
+name:DriveBackup size:0x78 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1721 DW_AT_decl_column:8  
+name:DriveInfo size:0x30 DW_AT_decl_file:C:/w/qemu/include/sysemu/blockdev.h DW_AT_decl_line:27 DW_AT_decl_column:8  
+name:DriveMirror size:0x80 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1888 DW_AT_decl_column:8  
+name:DummyBlockCoreForceArrays size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3624 DW_AT_decl_column:8  
+name:DWORD DW_AT_decl_file:C:/msys64/mingw64/include/minwindef.h DW_AT_decl_line:141 DW_AT_decl_column:29  DW_TAG_base_type size:0x02 DW_AT_encoding:DW_ATE_float 
+name:EnumProperty size:0x18 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:1661 DW_AT_decl_column:16  
+name:ErrorClass DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/w/qemu/include/qapi/error.h DW_AT_decl_line:282 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:Error DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:Error DW_AT_declaration:true  DW_TAG_base_type size:0x10 DW_AT_encoding:DW_ATE_signed 
+name:Error DW_AT_declaration:true  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/w/qemu/include/qapi/util.h DW_AT_decl_line:14 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:Error DW_AT_declaration:true  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:329 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:ErrorPropagator size:0x10 DW_AT_decl_file:C:/w/qemu/include/qapi/error.h DW_AT_decl_line:510 DW_AT_decl_column:16  
+name:ErrorPropagator size:16 DW_AT_decl_file:C:/w/qemu/include/qapi/error.h DW_AT_decl_line:510 DW_AT_decl_column:16  
+name:Error size:0x30 DW_AT_decl_file:C:\w\qemu\build/../util/error.c DW_AT_decl_line:19 DW_AT_decl_column:8  
+name:error_warn DW_AT_decl_file:C:/w/qemu/include/qapi/error.h DW_AT_decl_line:526 DW_AT_decl_column:15 DW_AT_external:true DW_AT_declaration:true  DW_TAG_base_type size:0x10 DW_AT_encoding:DW_ATE_signed 
+name:EventLoopBaseClass size:0x78 DW_AT_decl_file:C:/w/qemu/include/sysemu/event-loop-base.h DW_AT_decl_line:22 DW_AT_decl_column:8  
+name:EventLoopBaseProperties size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:511 DW_AT_decl_column:8  
+name:EventLoopBase size:0x40 DW_AT_decl_file:C:/w/qemu/include/sysemu/event-loop-base.h DW_AT_decl_line:30 DW_AT_decl_column:8  
+name:EventNotifier size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/event_notifier.h DW_AT_decl_line:21 DW_AT_decl_column:8  
+name:_EXCEPTION_POINTERS size:0x10 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:2968 DW_AT_decl_column:20  
+name:_EXCEPTION_RECORD size:0x98 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:2938 DW_AT_decl_column:20  
+name:_EXCEPTION_RECORD size:0x98 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:2938 DW_AT_decl_column:20  
+name:_EXCEPTION_REGISTRATION_RECORD size:0x10 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:4472 DW_AT_decl_column:20  offset:0x00  offset:0x08  
+name:_exception size:0x28 DW_AT_decl_file:D:/a/msys64/mingw64/include/math.h DW_AT_decl_line:156 DW_AT_decl_column:10  
+name:fd_set size:0x0208 DW_AT_decl_file:C:/msys64/mingw64/include/psdk_inc/_fd_types.h DW_AT_decl_line:21 DW_AT_decl_column:16  
+name:FdSocketAddress size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:135 DW_AT_decl_column:8  
+name:FdSocketAddress size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:135 DW_AT_decl_column:8  
+name:FdSocketAddressWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:163 DW_AT_decl_column:8  
+name:FdSocketAddressWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:163 DW_AT_decl_column:8  
+name:_FILETIME size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/minwindef.h DW_AT_decl_line:222 DW_AT_decl_column:18  
+name:_FILETIME size:0x08 DW_AT_decl_file:D:/a/msys64/mingw64/include/minwindef.h DW_AT_decl_line:222 DW_AT_decl_column:18  
+name:FilterBufferProperties size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:368 DW_AT_decl_column:8  
+name:FilterBufferProperties size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:368 DW_AT_decl_column:8  
+name:FilterDumpProperties size:0x38 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:389 DW_AT_decl_column:8  
+name:FilterDumpProperties size:0x38 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:389 DW_AT_decl_column:8  
+name:FilterMirrorProperties size:0x38 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:412 DW_AT_decl_column:8  
+name:FilterMirrorProperties size:0x38 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:412 DW_AT_decl_column:8  
+name:FilterRedirectorProperties size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:435 DW_AT_decl_column:8  
+name:FilterRedirectorProperties size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:435 DW_AT_decl_column:8  
+name:FilterRewriterProperties size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:459 DW_AT_decl_column:8  
+name:FilterRewriterProperties size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:459 DW_AT_decl_column:8  
+name:_finddata64i32_t size:0x0128 DW_AT_decl_file:C:/msys64/mingw64/include/io.h DW_AT_decl_line:53 DW_AT_decl_column:10  
+name:_finddata64i32_t size:0x0128 DW_AT_decl_file:D:/a/msys64/mingw64/include/io.h DW_AT_decl_line:53 DW_AT_decl_column:10  
+name:__finddata64_t size:0x0130 DW_AT_decl_file:D:/a/msys64/mingw64/include/io.h DW_AT_decl_line:62 DW_AT_decl_column:10  
+name:_Float16  DW_TAG_base_type size:0x02 DW_AT_encoding:DW_ATE_float 
+name:ForwardFieldVisitor size:0xf8 DW_AT_decl_file:C:\w\qemu\build/../qapi/qapi-forward-visitor.c DW_AT_decl_line:27 DW_AT_decl_column:8  
+name:FPI size:0x18 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/gdtoa/gdtoa.h DW_AT_decl_line:80 DW_AT_decl_column:1  
+name:_GArray size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/garray.h DW_AT_decl_line:43 DW_AT_decl_column:8  
+name:_GByteArray size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/garray.h DW_AT_decl_line:49 DW_AT_decl_column:8  
+name:gcollect size:0x0110 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c DW_AT_decl_line:202 DW_AT_decl_column:8  
+name:_GDateTime DW_AT_declaration:true  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_signed size:4 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gmessages.h DW_AT_decl_line:56 DW_AT_decl_column:1  DW_TAG_enumerator 
+name:GenericAlternate size:0x04 DW_AT_decl_file:C:/w/qemu/include/qapi/visitor.h DW_AT_decl_line:242 DW_AT_decl_column:16  
+name:GenericList size:0x08 DW_AT_decl_file:C:/w/qemu/include/qapi/visitor.h DW_AT_decl_line:235 DW_AT_decl_column:16  
+name:_GError size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gerror.h DW_AT_decl_line:45 DW_AT_decl_column:8  
+name:_GHashTable DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  
+name:_GHashTableIter size:0x28 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/ghash.h DW_AT_decl_line:48 DW_AT_decl_column:8  
+name:GHRFunc DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/ghash.h DW_AT_decl_line:42 DW_AT_decl_column:21  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  
+name:_GList size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/glist.h DW_AT_decl_line:41 DW_AT_decl_column:8  
+name:_GList size:24 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/glist.h DW_AT_decl_line:41 DW_AT_decl_column:8  
+name:GlobalProperty size:0x20 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:414 DW_AT_decl_column:16  
+name:_GMainContext DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:gnutls_anon_client_credentials_st DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:gnutls_anon_client_credentials_st DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_union_type size:0x08 DW_AT_decl_file:C:\w\qemu\build/../crypto/tlscredspriv.h DW_AT_decl_line:44 DW_AT_decl_column:5  
+name:gnutls_anon_client_credentials_t DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:2029 DW_AT_decl_column:3  DW_TAG_pointer_type size:8  
+name:gnutls_anon_server_credentials_t DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:2027 DW_AT_decl_column:3  DW_TAG_pointer_type size:8  
+name:gnutls_certificate_credentials_st DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
+name:gnutls_certificate_credentials_t DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:2022 DW_AT_decl_column:3  DW_TAG_pointer_type size:8  
+name:gnutls_dh_params_t DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:1256 DW_AT_decl_column:38  DW_TAG_pointer_type size:8  
+name:gnutls_psk_client_credentials_st DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_union_type size:8 DW_AT_decl_file:C:\w\qemu\build/../crypto/tlscredspriv.h DW_AT_decl_line:44 DW_AT_decl_column:5  
+name:gnutls_psk_client_credentials_t DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:2557 DW_AT_decl_column:50  DW_TAG_pointer_type size:8  
+name:gnutls_psk_key_flags DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:2567 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:gnutls_pull_func DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:2360 DW_AT_decl_column:20  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  
+name:gnutls_rnd_level DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/crypto.h DW_AT_decl_line:184 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:gnutls_x509_crt_int DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_array_type  DW_TAG_subrange_type DW_AT_upper_bound:0x07  
+name:gnutls_x509_crt_t DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:2010 DW_AT_decl_column:37  DW_TAG_const_type  DW_TAG_pointer_type size:8  
+name:_GOnce size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gthread.h DW_AT_decl_line:105 DW_AT_decl_column:8  
+name:_GPollFD size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gpoll.h DW_AT_decl_line:93 DW_AT_decl_column:8  
+name:_GPtrArray size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/garray.h DW_AT_decl_line:55 DW_AT_decl_column:8  
+name:_GQueue size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gqueue.h DW_AT_decl_line:49 DW_AT_decl_column:8  
+name:_GQueue size:24 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gqueue.h DW_AT_decl_line:49 DW_AT_decl_column:8  
+name:GraphLockableMainloop_autoptr DW_AT_decl_file:C:/w/qemu/include/block/graph-lock.h DW_AT_decl_line:276 DW_AT_decl_column:1  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:GraphLockableMainloop_autoptr DW_AT_decl_file:C:/w/qemu/include/block/graph-lock.h DW_AT_decl_line:276 DW_AT_decl_column:1  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:GraphLockableMainloop_autoptr DW_AT_decl_file:C:/w/qemu/include/block/graph-lock.h DW_AT_decl_line:276 DW_AT_decl_column:1  DW_TAG_pointer_type size:8  DW_TAG_variable 
+name:GraphLockableMainloop size:0 DW_AT_decl_file:C:/w/qemu/include/block/graph-lock.h DW_AT_decl_line:248 DW_AT_decl_column:16  DW_TAG_typedef 
+name:GraphLockableMainloop size:0x00 DW_AT_decl_file:C:/w/qemu/include/block/graph-lock.h DW_AT_decl_line:248 DW_AT_decl_column:16  DW_TAG_typedef 
+name:GraphLockable size:0 DW_AT_decl_file:C:/w/qemu/include/block/graph-lock.h DW_AT_decl_line:197 DW_AT_decl_column:16  DW_TAG_typedef 
+name:GraphLockable size:0x00 DW_AT_decl_file:C:/w/qemu/include/block/graph-lock.h DW_AT_decl_line:197 DW_AT_decl_column:16  DW_TAG_typedef 
+name:_GSList size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gslist.h DW_AT_decl_line:41 DW_AT_decl_column:8  
+name:_GSList size:16 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gslist.h DW_AT_decl_line:41 DW_AT_decl_column:8  
+name:_GSourceCallbackFuncs size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gmain.h DW_AT_decl_line:291 DW_AT_decl_column:8  
+name:_GSourceFuncs size:0x30 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gmain.h DW_AT_decl_line:398 DW_AT_decl_column:8  
+name:_GSource size:0x60 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gmain.h DW_AT_decl_line:266 DW_AT_decl_column:8  
+name:_GString size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gstring.h DW_AT_decl_line:45 DW_AT_decl_column:8  
+name:_GString size:24 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gstring.h DW_AT_decl_line:45 DW_AT_decl_column:8  
+name:GTraverseFunc DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gtree.h DW_AT_decl_line:51 DW_AT_decl_column:20  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:_GUri DW_AT_declaration:true  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/guri.h DW_AT_decl_line:82 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:_GUriParamsIter size:0x0118 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/guri.h DW_AT_decl_line:275 DW_AT_decl_column:8  
+name:hash_hd_st DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:HBitmapIter size:0x38 DW_AT_decl_file:C:/w/qemu/include/qemu/hbitmap.h DW_AT_decl_line:36 DW_AT_decl_column:8  
+name:HBitmap size:0x98 DW_AT_decl_file:C:\w\qemu\build/../util/hbitmap.c DW_AT_decl_line:55 DW_AT_decl_column:8  
+name:HDGeometry size:0x0c DW_AT_decl_file:C:/w/qemu/include/block/block-common.h DW_AT_decl_line:534 DW_AT_decl_column:16  
+name:HINSTANCE__ size:0x04 DW_AT_decl_file:C:/msys64/mingw64/include/minwindef.h DW_AT_decl_line:208 DW_AT_decl_column:3  
+name:HINSTANCE__ size:0x04 DW_AT_decl_file:D:/a/msys64/mingw64/include/minwindef.h DW_AT_decl_line:208 DW_AT_decl_column:3  
+name:HotplugHandler DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:HumanReadableText size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-common.h DW_AT_decl_line:156 DW_AT_decl_column:8  
+name:_IFP size:0x1018 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_vfscanf.c DW_AT_decl_line:76 DW_AT_decl_column:16  offset:0x00  
+name:ImageCheck size:0xa8 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1278 DW_AT_decl_column:8  
+name:ImageCheck size:0xa8 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1278 DW_AT_decl_column:8  
+name:_IMAGE_DATA_DIRECTORY size:0x08 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:7460 DW_AT_decl_column:20  
+name:_IMAGE_DOS_HEADER size:0x40 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:7288 DW_AT_decl_column:20  
+name:_IMAGE_FILE_HEADER size:0x14 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:7399 DW_AT_decl_column:20  
+name:_IMAGE_IMPORT_DESCRIPTOR size:0x14 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:8448 DW_AT_decl_column:20  offset:0x00  
+name:ImageInfo size:0x78 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1196 DW_AT_decl_column:8  
+name:ImageInfo size:0x78 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1196 DW_AT_decl_column:8  
+name:ImageInfoSpecificFile size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1102 DW_AT_decl_column:8  
+name:ImageInfoSpecificFile size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1102 DW_AT_decl_column:8  
+name:ImageInfoSpecificFileWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1138 DW_AT_decl_column:8  
+name:ImageInfoSpecificFileWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1138 DW_AT_decl_column:8  
+name:ImageInfoSpecificLUKSWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1124 DW_AT_decl_column:8  
+name:ImageInfoSpecificLUKSWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1124 DW_AT_decl_column:8  
+name:ImageInfoSpecificQCow2EncryptionBase size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1010 DW_AT_decl_column:8  
+name:ImageInfoSpecificQCow2Encryption size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1017 DW_AT_decl_column:8  
+name:ImageInfoSpecificQCow2Encryption size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1017 DW_AT_decl_column:8  
+name:ImageInfoSpecificQCow2 size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1042 DW_AT_decl_column:8  
+name:ImageInfoSpecificQCow2 size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1042 DW_AT_decl_column:8  
+name:ImageInfoSpecificQCow2Wrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1110 DW_AT_decl_column:8  
+name:ImageInfoSpecificQCow2Wrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1110 DW_AT_decl_column:8  
+name:ImageInfoSpecificRbd size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1094 DW_AT_decl_column:8  
+name:ImageInfoSpecificRbd size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1094 DW_AT_decl_column:8  
+name:ImageInfoSpecificRbdWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1131 DW_AT_decl_column:8  
+name:ImageInfoSpecificRbdWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1131 DW_AT_decl_column:8  
+name:ImageInfoSpecific size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1149 DW_AT_decl_column:8  
+name:ImageInfoSpecific size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1149 DW_AT_decl_column:8  
+name:ImageInfoSpecificVmdk size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1071 DW_AT_decl_column:8  
+name:ImageInfoSpecificVmdk size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1071 DW_AT_decl_column:8  
+name:ImageInfoSpecificVmdkWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1117 DW_AT_decl_column:8  
+name:ImageInfoSpecificVmdkWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1117 DW_AT_decl_column:8  
+name:_IMAGE_NT_HEADERS64 size:0x0108 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:7572 DW_AT_decl_column:20  
+name:_IMAGE_OPTIONAL_HEADER64 size:0xf0 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:7518 DW_AT_decl_column:20  
+name:_IMAGE_OPTIONAL_HEADER size:0xe0 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:7467 DW_AT_decl_column:20  
+name:_IMAGE_SECTION_HEADER size:0x28 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:7683 DW_AT_decl_column:20  
+name:_IMAGE_TLS_DIRECTORY64 size:0x28 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:8410 DW_AT_decl_column:20  
+name:ImgBitmapAction size:0x18 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:4768 DW_AT_decl_column:16  
+name:img_cmd_t size:0x10 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:61 DW_AT_decl_column:16  
+name:ImgConvertState size:0x01d0 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:1670 DW_AT_decl_column:16  
+name:in6_addr size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/in6addr.h DW_AT_decl_line:17 DW_AT_decl_column:16  
+name:in_addr size:0x04 DW_AT_decl_file:C:/msys64/mingw64/include/inaddr.h DW_AT_decl_line:17 DW_AT_decl_column:16  
+name:InetSocketAddressBaseList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:212 DW_AT_decl_column:8  
+name:InetSocketAddressBaseList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:212 DW_AT_decl_column:8  
+name:InetSocketAddressBase size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:75 DW_AT_decl_column:8  
+name:InetSocketAddressBase size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:75 DW_AT_decl_column:8  
+name:InetSocketAddress size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:83 DW_AT_decl_column:8  
+name:InetSocketAddress size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:83 DW_AT_decl_column:8  
+name:InetSocketAddressWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:142 DW_AT_decl_column:8  
+name:InetSocketAddressWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:142 DW_AT_decl_column:8  
+name:InputBarrierProperties size:0x38 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:481 DW_AT_decl_column:8  
+name:InputBarrierProperties size:0x38 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:481 DW_AT_decl_column:8  
+name:__int128  DW_TAG_base_type size:0x10 DW_AT_encoding:DW_ATE_unsigned 
+name:__int128unsigned  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:__int128unsigned  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/w/qemu/include/qemu/timer.h DW_AT_decl_line:47 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:__int128unsigned  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/qemu/timer.h DW_AT_decl_line:47 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:__int128unsigned  DW_TAG_pointer_type size:0x08  DW_TAG_subprogram DW_AT_external:true 
+name:__int128unsigned  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
+name:__int128unsigned  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:__int128unsigned  DW_TAG_pointer_type size:8  DW_TAG_subprogram DW_AT_external:true 
+name:int16List size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:96 DW_AT_decl_column:8  
+name:int32List size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:104 DW_AT_decl_column:8  
+name:int64List size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:112 DW_AT_decl_column:8  
+name:int8List size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:88 DW_AT_decl_column:8  
+name:InterfaceClass size:0x70 DW_AT_decl_file:C:/w/qemu/include/qom/object.h DW_AT_decl_line:576 DW_AT_decl_column:8  
+name:InterfaceImpl size:0x08 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:43 DW_AT_decl_column:8  
+name:InterfaceInfo size:0x08 DW_AT_decl_file:C:/w/qemu/include/qom/object.h DW_AT_decl_line:565 DW_AT_decl_column:8  
+name:internal_state DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:intList size:16 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:80 DW_AT_decl_column:8  
+name:_iobuf size:0x30 DW_AT_decl_file:C:/msys64/mingw64/include/stdio.h DW_AT_decl_line:33 DW_AT_decl_column:10  
+name:_iobuf size:0x30 DW_AT_decl_file:D:/a/msys64/mingw64/include/stdio.h DW_AT_decl_line:33 DW_AT_decl_column:10  
+name:IOMMUFDProperties size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:793 DW_AT_decl_column:8  
+name:IOMMUFDProperties size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:793 DW_AT_decl_column:8  
+name:IoOperationType DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-common.h DW_AT_decl_line:18 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:IothreadProperties size:0x60 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:523 DW_AT_decl_column:8  
+name:IothreadProperties size:0x60 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:523 DW_AT_decl_column:8  
+name:iovec size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/osdep.h DW_AT_decl_line:634 DW_AT_decl_column:8  
+name:JobDriver size:0x68 DW_AT_decl_file:C:/w/qemu/include/qemu/job.h DW_AT_decl_line:191 DW_AT_decl_column:8  
+name:JobInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:132 DW_AT_decl_column:8  
+name:JobInfo size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:120 DW_AT_decl_column:8  
+name:JOB_OBJECT_NET_RATE_CONTROL_FLAGS DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:5054 DW_AT_decl_column:18  DW_TAG_enumerator 
+name:Job size:0x0100 DW_AT_decl_file:C:/w/qemu/include/qemu/job.h DW_AT_decl_line:42 DW_AT_decl_column:16  
+name:JobTxn size:0x18 DW_AT_decl_file:C:/w/qemu/build/../job.c DW_AT_decl_line:87 DW_AT_decl_column:8  
+name:JSONLexer size:0x18 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/json-parser.h DW_AT_decl_line:17 DW_AT_decl_column:16  
+name:JSONMessageParser size:0x58 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/json-parser.h DW_AT_decl_line:23 DW_AT_decl_column:16  
+name:JSONParserContext size:0x20 DW_AT_decl_file:C:\w\qemu\build/../qobject/json-parser.c DW_AT_decl_line:34 DW_AT_decl_column:16  
+name:JSONParsingState size:0x68 DW_AT_decl_file:C:\w\qemu\build/../qobject/qjson.c DW_AT_decl_line:25 DW_AT_decl_column:16  
+name:JSONToken size:0x0c DW_AT_decl_file:C:\w\qemu\build/../qobject/json-parser.c DW_AT_decl_line:27 DW_AT_decl_column:8  
+name:JSONWriter size:0x18 DW_AT_decl_file:C:\w\qemu\build/../qobject/json-writer.c DW_AT_decl_line:20 DW_AT_decl_column:8  
+name:lconv size:0x98 DW_AT_decl_file:D:/a/msys64/mingw64/include/locale.h DW_AT_decl_line:45 DW_AT_decl_column:10  
+name:LeakyBucket size:0x28 DW_AT_decl_file:C:/w/qemu/include/qemu/throttle.h DW_AT_decl_line:79 DW_AT_decl_column:16  
+name:_LIST_ENTRY size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:637 DW_AT_decl_column:18  
+name:_LIST_ENTRY size:0x10 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:637 DW_AT_decl_column:18  
+name:Location size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/error-report.h DW_AT_decl_line:16 DW_AT_decl_column:16  
+name:log_write_entry size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/blklogwrites.c DW_AT_decl_line:45 DW_AT_decl_column:8  
+name:log_write_super size:0x1c DW_AT_decl_file:C:\w\qemu\build/../block/blklogwrites.c DW_AT_decl_line:38 DW_AT_decl_column:8  
+name:_M128A size:0x10 align:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:1489 DW_AT_decl_column:40  
+name:_M128A size:0x10 align:0x10 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:1489 DW_AT_decl_column:40  
+name:MainLoopPoll size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/main-loop.h DW_AT_decl_line:402 DW_AT_decl_column:16  
+name:MainLoopProperties size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:548 DW_AT_decl_column:8  
+name:MainLoopProperties size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:548 DW_AT_decl_column:8  
+name:MainLoop size:0x40 DW_AT_decl_file:C:/w/qemu/include/qemu/main-loop.h DW_AT_decl_line:37 DW_AT_decl_column:8  
+name:MapEntry size:0x38 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1305 DW_AT_decl_column:8  
+name:MapEntry size:0x38 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1305 DW_AT_decl_column:8  
+name:mapping_t size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:260 DW_AT_decl_column:16  
+name:mbr_t size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:236 DW_AT_decl_column:16  
+name:_Mbstatet size:0x08 DW_AT_decl_file:D:/a/msys64/mingw64/include/wchar.h DW_AT_decl_line:1318 DW_AT_decl_column:18  
+name:MemoryBackendFileProperties size:0x70 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:593 DW_AT_decl_column:8  
+name:MemoryBackendFileProperties size:0x70 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:593 DW_AT_decl_column:8  
+name:MemoryBackendProperties size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:567 DW_AT_decl_column:8  
+name:MemoryBackendProperties size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:567 DW_AT_decl_column:8  
+name:_MEMORY_BASIC_INFORMATION size:0x30 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:5688 DW_AT_decl_column:20  
+name:_MEMORYSTATUSEX size:0x40 DW_AT_decl_file:C:/msys64/mingw64/include/sysinfoapi.h DW_AT_decl_line:48 DW_AT_decl_column:18  
+name:MigMode DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-migration.h DW_AT_decl_line:114 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:__mingwthr_key size:0x18 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/crt/tlsthrd.c DW_AT_decl_line:32 DW_AT_decl_column:8  
+name:MirrorBDSOpaque size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/mirror.c DW_AT_decl_line:99 DW_AT_decl_column:16  
+name:MirrorBlockJob size:0x02d8 DW_AT_decl_file:C:\w\qemu\build/../block/mirror.c DW_AT_decl_line:41 DW_AT_decl_column:16  
+name:MirrorBuffer size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/mirror.c DW_AT_decl_line:35 DW_AT_decl_column:16  
+name:MirrorOp size:0x80 DW_AT_decl_file:C:\w\qemu\build/../block/mirror.c DW_AT_decl_line:105 DW_AT_decl_column:8  
+name:ModuleEntry size:0x20 DW_AT_decl_file:C:\w\qemu\build/../util/module.c DW_AT_decl_line:30 DW_AT_decl_column:16  
+name:Monitor DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:Monitor DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:MSGUID size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:76 DW_AT_decl_column:28  
+name:NamedClockList size:0x28 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:197 DW_AT_decl_column:8  
+name:NamedGPIOList size:0x28 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:186 DW_AT_decl_column:8  
+name:NBDClientConnection size:0x0110 DW_AT_decl_file:C:\w\qemu\build/../nbd/client-connection.c DW_AT_decl_line:34 DW_AT_decl_column:8  
+name:NbdDoEstablishConnection size:0x38 DW_AT_decl_file:C:\w\qemu\build/block/block-gen.c DW_AT_decl_line:2596 DW_AT_decl_column:16  
+name:NBDExportInfo size:0x58 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:366 DW_AT_decl_column:16  
+name:NBDExtendedReplyChunk size:0x20 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:111 DW_AT_decl_column:16  
+name:NBDExtent64 size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:185 DW_AT_decl_column:16  
+name:NBDMode DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:71 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:NBDOptionReply size:0x14 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:57 DW_AT_decl_column:16  
+name:NBDOption size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:51 DW_AT_decl_column:16  
+name:NBDReplyChunkIter size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/nbd.c DW_AT_decl_line:963 DW_AT_decl_column:16  
+name:NBDRequest size:0x28 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:86 DW_AT_decl_column:16  
+name:NBDSimpleReply size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:96 DW_AT_decl_column:16  
+name:NBDStructuredReplyChunk size:0x14 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:103 DW_AT_decl_column:16  
+name:NBDTLSClientHandshakeData size:0x18 DW_AT_decl_file:C:\w\qemu\build/../nbd/client.c DW_AT_decl_line:600 DW_AT_decl_column:8  
+name:NetfilterProperties size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:355 DW_AT_decl_column:8  
+name:NetfilterProperties size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:355 DW_AT_decl_column:8  
+name:NFSClient size:0x88 DW_AT_decl_file:C:\w\qemu\build/../block/nfs.c DW_AT_decl_line:55 DW_AT_decl_column:16  
+name:nfsfh DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:NFSRPC size:0x30 DW_AT_decl_file:C:\w\qemu\build/../block/nfs.c DW_AT_decl_line:69 DW_AT_decl_column:16  
+name:NFSServer size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2864 DW_AT_decl_column:8  
+name:NFSServer size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2864 DW_AT_decl_column:8  
+name:NotifierList size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:27 DW_AT_decl_column:16  
+name:Notifier size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:21 DW_AT_decl_column:8  
+name:NotifierWithReturnList size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:61 DW_AT_decl_column:16  
+name:NotifierWithReturn size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:52 DW_AT_decl_column:8  
+name:NtCurrentTeb DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:10159 DW_AT_decl_column:30 DW_AT_prototyped:true DW_AT_inline:DW_INL_declared_inlined  DW_TAG_pointer_type size:8  DW_TAG_subprogram DW_AT_external:true 
+name:_NT_TIB size:0x38 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:4491 DW_AT_decl_column:35  
+name:nullList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:176 DW_AT_decl_column:8  
+name:numberList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:72 DW_AT_decl_column:8  
+name:ObjectClass size:0x60 DW_AT_decl_file:C:/w/qemu/include/qom/object.h DW_AT_decl_line:127 DW_AT_decl_column:8  
+name:ObjectOptions size:0x0148 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:943 DW_AT_decl_column:8  
+name:ObjectOptions size:0x0148 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:943 DW_AT_decl_column:8  
+name:ObjectPropertyInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:233 DW_AT_decl_column:8  
+name:ObjectPropertyInfo size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:219 DW_AT_decl_column:8  
+name:ObjectPropertyIterator size:0x30 DW_AT_decl_file:C:/w/qemu/include/qom/object.h DW_AT_decl_line:1235 DW_AT_decl_column:16  
+name:ObjectProperty size:0x50 DW_AT_decl_file:C:/w/qemu/include/qom/object.h DW_AT_decl_line:88 DW_AT_decl_column:8  
+name:Object size:0x28 DW_AT_decl_file:C:/w/qemu/include/qom/object.h DW_AT_decl_line:153 DW_AT_decl_column:8  
+name:ObjectTypeInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:268 DW_AT_decl_column:8  
+name:ObjectTypeInfo size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:252 DW_AT_decl_column:8  
+name:OCFData size:0x20 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:1101 DW_AT_decl_column:16  
+name:OnOffAuto DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-common.h DW_AT_decl_line:29 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:option size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/getopt.h DW_AT_decl_line:64 DW_AT_decl_column:8  
+name:option size:0x20 DW_AT_decl_file:D:/a/msys64/mingw64/include/getopt.h DW_AT_decl_line:64 DW_AT_decl_column:8  
+name:_OVERLAPPED size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/minwinbase.h DW_AT_decl_line:19 DW_AT_decl_column:18  
+name:ParallelsDirtyBitmapFeature size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/parallels-ext.c DW_AT_decl_line:53 DW_AT_decl_column:16  
+name:ParallelsFeatureHeader size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/parallels-ext.c DW_AT_decl_line:46 DW_AT_decl_column:16  
+name:ParallelsFormatExtensionHeader size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/parallels-ext.c DW_AT_decl_line:41 DW_AT_decl_column:16  
+name:ParallelsHeader size:0x40 DW_AT_decl_file:C:\w\qemu\build/../block/parallels.h DW_AT_decl_line:41 DW_AT_decl_column:16  
+name:partition_t size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:227 DW_AT_decl_column:16  
+name:perm_name size:0x10 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:2643 DW_AT_decl_column:12  
+name:PollingEntry size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/main-loop.c DW_AT_decl_line:320 DW_AT_decl_column:16  
+name:PreallocateOpts size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/preallocate.c DW_AT_decl_line:37 DW_AT_decl_column:16  
+name:PRManagerInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block.h DW_AT_decl_line:89 DW_AT_decl_column:8  
+name:PRManagerInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:89 DW_AT_decl_column:8  
+name:PRManagerInfo size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block.h DW_AT_decl_line:81 DW_AT_decl_column:8  
+name:PRManagerInfo size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:81 DW_AT_decl_column:8  
+name:PRManager size:0x28 DW_AT_decl_file:C:/w/qemu/include/scsi/pr-manager.h DW_AT_decl_line:16 DW_AT_decl_column:8  
+name:ProgressMeter size:0x28 DW_AT_decl_file:C:/w/qemu/include/qemu/progress_meter.h DW_AT_decl_line:32 DW_AT_decl_column:16  
+name:progress_state size:0x20 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-progress.c DW_AT_decl_line:28 DW_AT_decl_column:8  
+name:QapiCloneVisitor size:0xe0 DW_AT_decl_file:C:\w\qemu\build/../qapi/qapi-clone-visitor.c DW_AT_decl_line:17 DW_AT_decl_column:8  
+name:QapiDeallocVisitor size:0xd8 DW_AT_decl_file:C:\w\qemu\build/../qapi/qapi-dealloc-visitor.c DW_AT_decl_line:20 DW_AT_decl_column:8  
+name:QapiErrorClass DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-error.h DW_AT_decl_line:18 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QapiErrorClass DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-error.h DW_AT_decl_line:18 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QAPIEvent DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-emit-events.h DW_AT_decl_line:18 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QAPIEvent DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-emit-events.h DW_AT_decl_line:18 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QAPIEvent DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-emit-events.h DW_AT_decl_line:18 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QAuthZClass size:0x68 DW_AT_decl_file:C:/w/qemu/include/authz/base.h DW_AT_decl_line:47 DW_AT_decl_column:8  
+name:QAuthZListFile size:0x50 DW_AT_decl_file:C:/w/qemu/include/authz/listfile.h DW_AT_decl_line:79 DW_AT_decl_column:8  
+name:QAuthZListRuleList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-authz.h DW_AT_decl_line:62 DW_AT_decl_column:8  
+name:QAuthZListRuleList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-authz.h DW_AT_decl_line:62 DW_AT_decl_column:8  
+name:QAuthZListRule size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-authz.h DW_AT_decl_line:52 DW_AT_decl_column:8  
+name:QAuthZListRule size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-authz.h DW_AT_decl_line:52 DW_AT_decl_column:8  
+name:QAuthZList size:0x38 DW_AT_decl_file:C:/w/qemu/include/authz/list.h DW_AT_decl_line:63 DW_AT_decl_column:8  
+name:QAuthZSimple size:0x30 DW_AT_decl_file:C:/w/qemu/include/authz/simple.h DW_AT_decl_line:58 DW_AT_decl_column:8  
+name:QAuthZ size:0x28 DW_AT_decl_file:C:/w/qemu/include/authz/base.h DW_AT_decl_line:42 DW_AT_decl_column:8  
+name:QBool size:0x18 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qbool.h DW_AT_decl_line:19 DW_AT_decl_column:8  
+name:Qcow2AioTask size:0x58 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.c DW_AT_decl_line:2275 DW_AT_decl_column:16  
+name:Qcow2AmendHelperCBInfo size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.c DW_AT_decl_line:5625 DW_AT_decl_column:16  
+name:Qcow2BitmapDirEntry size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-bitmap.c DW_AT_decl_line:66 DW_AT_decl_column:28  
+name:Qcow2BitmapHeaderExt size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:318 DW_AT_decl_column:16  
+name:Qcow2BitmapInfoFlagsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1404 DW_AT_decl_column:8  
+name:Qcow2BitmapInfoFlagsList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1404 DW_AT_decl_column:8  
+name:Qcow2BitmapInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1034 DW_AT_decl_column:8  
+name:Qcow2BitmapInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1034 DW_AT_decl_column:8  
+name:Qcow2BitmapInfo size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1412 DW_AT_decl_column:8  
+name:Qcow2BitmapInfo size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1412 DW_AT_decl_column:8  
+name:Qcow2BitmapList size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-bitmap.c DW_AT_decl_line:97 DW_AT_decl_column:9  
+name:Qcow2Bitmap size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-bitmap.c DW_AT_decl_line:87 DW_AT_decl_column:16  
+name:Qcow2BitmapTable size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-bitmap.c DW_AT_decl_line:81 DW_AT_decl_column:16  
+name:Qcow2CachedTable size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-cache.c DW_AT_decl_line:31 DW_AT_decl_column:16  
+name:Qcow2Cache size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-cache.c DW_AT_decl_line:38 DW_AT_decl_column:8  
+name:Qcow2CompressData size:0x30 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-threads.c DW_AT_decl_line:71 DW_AT_decl_column:16  
+name:Qcow2COWRegion size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:427 DW_AT_decl_column:16  
+name:Qcow2CryptoHeaderExtension size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:234 DW_AT_decl_column:16  
+name:Qcow2DiscardRegion size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:306 DW_AT_decl_column:16  
+name:Qcow2EncDecData size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-threads.c DW_AT_decl_line:440 DW_AT_decl_column:16  
+name:Qcow2Feature size:0x30 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:300 DW_AT_decl_column:16  
+name:QCow2OpenCo size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.c DW_AT_decl_line:1921 DW_AT_decl_column:16  
+name:Qcow2OverlapCheckFlags size:0x1c DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2309 DW_AT_decl_column:8  
+name:Qcow2OverlapCheckFlags size:0x1c DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2309 DW_AT_decl_column:8  
+name:Qcow2OverlapChecks size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2335 DW_AT_decl_column:8  
+name:Qcow2OverlapChecks size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2335 DW_AT_decl_column:8  
+name:Qcow2ReopenState size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.c DW_AT_decl_line:973 DW_AT_decl_column:16  
+name:Qcow2UnknownHeaderExtension size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:239 DW_AT_decl_column:16  
+name:QCowHeader size:0x30 DW_AT_decl_file:C:\w\qemu\build/../block/qcow.c DW_AT_decl_line:56 DW_AT_decl_column:16  
+name:QCowHeader size:0x70 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:154 DW_AT_decl_column:16  
+name:QCowL2Meta size:0x68 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:443 DW_AT_decl_column:16  
+name:QCowSnapshotExtraData size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:206 DW_AT_decl_column:28  
+name:QCowSnapshotHeader size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:186 DW_AT_decl_column:28  
+name:QCowSnapshot size:0x58 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:213 DW_AT_decl_column:16  
+name:QCryptoAkCipherDriver size:0x28 DW_AT_decl_file:C:\w\qemu\build/../crypto/akcipherpriv.h DW_AT_decl_line:39 DW_AT_decl_column:8  
+name:QCryptoAkCipherMPI size:0x10 DW_AT_decl_file:C:\w\qemu\build/../crypto/rsakey.h DW_AT_decl_line:35 DW_AT_decl_column:8  
+name:QCryptoAkCipherOptionsRSA size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:505 DW_AT_decl_column:8  
+name:QCryptoAkCipherOptionsRSA size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:505 DW_AT_decl_column:8  
+name:QCryptoAkCipherOptions size:0x0c DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:517 DW_AT_decl_column:8  
+name:QCryptoAkCipherOptions size:0x0c DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:517 DW_AT_decl_column:8  
+name:QCryptoAkCipherRSAKey size:0x80 DW_AT_decl_file:C:\w\qemu\build/../crypto/rsakey.h DW_AT_decl_line:41 DW_AT_decl_column:8  
+name:QCryptoAkCipher size:0x20 DW_AT_decl_file:C:\w\qemu\build/../crypto/akcipherpriv.h DW_AT_decl_line:29 DW_AT_decl_column:8  
+name:QCryptoBlockAmendOptionsLUKS size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:350 DW_AT_decl_column:8  
+name:QCryptoBlockAmendOptionsLUKS size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:350 DW_AT_decl_column:8  
+name:QCryptoBlockAmendOptions size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:364 DW_AT_decl_column:8  
+name:QCryptoBlockAmendOptions size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:364 DW_AT_decl_column:8  
+name:QCryptoBlockCreateOptionsLUKS size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:227 DW_AT_decl_column:8  
+name:QCryptoBlockCreateOptionsLUKS size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:227 DW_AT_decl_column:8  
+name:QCryptoBlockCreateOptions size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:271 DW_AT_decl_column:8  
+name:QCryptoBlockCreateOptions size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:271 DW_AT_decl_column:8  
+name:QCryptoBlockDriver size:0x40 DW_AT_decl_file:C:\w\qemu\build/../crypto/blockpriv.h DW_AT_decl_line:55 DW_AT_decl_column:8  
+name:QCryptoBlock DW_AT_declaration:true  DW_TAG_pointer_type size:8  
+name:QCryptoBlock DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoBlock DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoBlock DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoBlockInfoBase size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:289 DW_AT_decl_column:8  
+name:QCryptoBlockInfoLUKS size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:316 DW_AT_decl_column:8  
+name:QCryptoBlockInfoLUKS size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:316 DW_AT_decl_column:8  
+name:QCryptoBlockInfoLUKSSlotList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:308 DW_AT_decl_column:8  
+name:QCryptoBlockInfoLUKSSlotList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:308 DW_AT_decl_column:8  
+name:QCryptoBlockInfoLUKSSlot size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:296 DW_AT_decl_column:8  
+name:QCryptoBlockInfoLUKSSlot size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:296 DW_AT_decl_column:8  
+name:QCryptoBlockInfo size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:333 DW_AT_decl_column:8  
+name:QCryptoBlockInfo size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:333 DW_AT_decl_column:8  
+name:QCryptoBlockLUKSCipherNameMap size:0x10 DW_AT_decl_file:C:\w\qemu\build/../crypto/block-luks.c DW_AT_decl_line:63 DW_AT_decl_column:8  
+name:QCryptoBlockLUKSCipherSizeMap size:0x08 DW_AT_decl_file:C:\w\qemu\build/../crypto/block-luks.c DW_AT_decl_line:58 DW_AT_decl_column:8  
+name:QCryptoBlockLUKSHeader size:0x0250 DW_AT_decl_file:C:\w\qemu\build/../crypto/block-luks-priv.h DW_AT_decl_line:99 DW_AT_decl_column:8  
+name:QCryptoBlockLUKSKeySlot size:0x30 DW_AT_decl_file:C:\w\qemu\build/../crypto/block-luks-priv.h DW_AT_decl_line:82 DW_AT_decl_column:8  
+name:QCryptoBlockLUKS size:0x0270 DW_AT_decl_file:C:\w\qemu\build/../crypto/block-luks.c DW_AT_decl_line:122 DW_AT_decl_column:8  
+name:QCryptoBlockOpenOptions size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:253 DW_AT_decl_column:8  
+name:QCryptoBlockOpenOptions size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:253 DW_AT_decl_column:8  
+name:QCryptoBlockOptionsBase size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:206 DW_AT_decl_column:8  
+name:QCryptoBlockOptionsLUKS size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:220 DW_AT_decl_column:8  
+name:QCryptoBlockOptionsLUKS size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:220 DW_AT_decl_column:8  
+name:QCryptoBlockOptionsQCow size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:213 DW_AT_decl_column:8  
+name:QCryptoBlockOptionsQCow size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:213 DW_AT_decl_column:8  
+name:QCryptoBlockReadFunc DW_AT_decl_file:C:/w/qemu/include/crypto/block.h DW_AT_decl_line:32 DW_AT_decl_column:15  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  
+name:QCryptoBlock size:0x90 DW_AT_decl_file:C:\w\qemu\build/../crypto/blockpriv.h DW_AT_decl_line:29 DW_AT_decl_column:8  
+name:QCryptoCipher_autoptr DW_AT_decl_file:C:/w/qemu/include/crypto/cipher.h DW_AT_decl_line:173 DW_AT_decl_column:1  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
+name:QCryptoCipher_autoptr DW_AT_decl_file:C:/w/qemu/include/crypto/cipher.h DW_AT_decl_line:173 DW_AT_decl_column:1  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoCipherDriver DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoCipherDriver DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoCipherDriver size:0x20 DW_AT_decl_file:C:\w\qemu\build/../crypto/cipherpriv.h DW_AT_decl_line:20 DW_AT_decl_column:8  
+name:QCryptoCipherGnutls size:0x38 DW_AT_decl_file:C:\w\qemu\build/../crypto/cipher-gnutls.c.inc DW_AT_decl_line:63 DW_AT_decl_column:8  
+name:QCryptoCipher size:0x10 DW_AT_decl_file:C:/w/qemu/include/crypto/cipher.h DW_AT_decl_line:80 DW_AT_decl_column:8  
+name:QCryptoDERDecodeCb DW_AT_decl_file:C:\w\qemu\build/../crypto/der.h DW_AT_decl_line:38 DW_AT_decl_column:15  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  
+name:QCryptoDerEncodeNode size:0x28 DW_AT_decl_file:C:\w\qemu\build/../crypto/der.c DW_AT_decl_line:25 DW_AT_decl_column:16  
+name:QCryptoEncodeContext size:0x38 DW_AT_decl_file:C:\w\qemu\build/../crypto/der.c DW_AT_decl_line:34 DW_AT_decl_column:16  
+name:QCryptoHashAlgo DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:40 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QCryptoHashAlgo DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:40 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QCryptoHashDriver size:0x20 DW_AT_decl_file:C:\w\qemu\build/../crypto/hashpriv.h DW_AT_decl_line:23 DW_AT_decl_column:8  
+name:QCryptoHash size:0x18 DW_AT_decl_file:C:/w/qemu/include/crypto/hash.h DW_AT_decl_line:39 DW_AT_decl_column:8  
+name:QCryptoHmacDriver size:0x10 DW_AT_decl_file:C:\w\qemu\build/../crypto/hmacpriv.h DW_AT_decl_line:20 DW_AT_decl_column:8  
+name:QCryptoHmacGnutls size:0x08 DW_AT_decl_file:C:\w\qemu\build/../crypto/hmac-gnutls.c DW_AT_decl_line:34 DW_AT_decl_column:8  
+name:QCryptoHmac size:0x18 DW_AT_decl_file:C:/w/qemu/include/crypto/hmac.h DW_AT_decl_line:18 DW_AT_decl_column:8  
+name:QCryptoIVGen_autoptr DW_AT_decl_file:C:/w/qemu/include/crypto/ivgen.h DW_AT_decl_line:206 DW_AT_decl_column:1  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoIVGenDriver size:0x18 DW_AT_decl_file:C:\w\qemu\build/../crypto/ivgenpriv.h DW_AT_decl_line:28 DW_AT_decl_column:8  
+name:QCryptoIVGen DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoIVGenESSIV size:0x08 DW_AT_decl_file:C:\w\qemu\build/../crypto/ivgen-essiv.c DW_AT_decl_line:26 DW_AT_decl_column:8  
+name:QCryptoIVGen size:0x20 DW_AT_decl_file:C:\w\qemu\build/../crypto/ivgenpriv.h DW_AT_decl_line:39 DW_AT_decl_column:8  
+name:QCryptoSecretCommonClass size:0x68 DW_AT_decl_file:C:/w/qemu/include/crypto/secret_common.h DW_AT_decl_line:42 DW_AT_decl_column:8  
+name:QCryptoSecretCommon size:0x50 DW_AT_decl_file:C:/w/qemu/include/crypto/secret_common.h DW_AT_decl_line:32 DW_AT_decl_column:8  
+name:QCryptoSecretFormat DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:29 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QCryptoSecret size:0x60 DW_AT_decl_file:C:/w/qemu/include/crypto/secret.h DW_AT_decl_line:122 DW_AT_decl_column:8  
+name:QCryptoTLSCredsAnon size:0x58 DW_AT_decl_file:C:\w\qemu\build/../crypto/tlscredspriv.h DW_AT_decl_line:41 DW_AT_decl_column:8  
+name:QCryptoTLSCredsClass size:0x68 DW_AT_decl_file:C:/w/qemu/include/crypto/tlscreds.h DW_AT_decl_line:47 DW_AT_decl_column:8  
+name:QCryptoTLSCreds DW_AT_declaration:true  DW_TAG_pointer_type size:8  
+name:QCryptoTLSCreds DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoTLSCreds DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_variable 
+name:QCryptoTLSCredsEndpoint DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:18 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QCryptoTLSCredsPSK size:0x60 DW_AT_decl_file:C:\w\qemu\build/../crypto/tlscredspriv.h DW_AT_decl_line:51 DW_AT_decl_column:8  
+name:QCryptoTLSCreds size:0x50 DW_AT_decl_file:C:\w\qemu\build/../crypto/tlscredspriv.h DW_AT_decl_line:30 DW_AT_decl_column:8  
+name:QCryptoTLSCredsX509 size:0x68 DW_AT_decl_file:C:\w\qemu\build/../crypto/tlscredspriv.h DW_AT_decl_line:62 DW_AT_decl_column:8  
+name:QCryptoTLSSession DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QCryptoTLSSession size:0x58 DW_AT_decl_file:C:\w\qemu\build/../crypto/tlssession.c DW_AT_decl_line:37 DW_AT_decl_column:8  
+name:QCryptoTLSSessionWriteFunc DW_AT_decl_file:C:/w/qemu/include/crypto/tlssession.h DW_AT_decl_line:185 DW_AT_decl_column:19  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  
+name:QDict DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:QDictEntry size:0x20 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qdict.h DW_AT_decl_line:21 DW_AT_decl_column:16  
+name:QDictRenames size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/qdict.h DW_AT_decl_line:27 DW_AT_decl_column:16  
+name:QDict size:0x1018 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qdict.h DW_AT_decl_line:27 DW_AT_decl_column:8  
+name:qdist_entry size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/qdist.h DW_AT_decl_line:22 DW_AT_decl_column:8  
+name:qdist size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/qdist.h DW_AT_decl_line:27 DW_AT_decl_column:8  
+name:QEDAIOCB size:0x78 DW_AT_decl_file:C:\w\qemu\build/../block/qed.h DW_AT_decl_line:131 DW_AT_decl_column:16  
+name:QEDOpenCo size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/qed.c DW_AT_decl_line:553 DW_AT_decl_column:16  
+name:QEDRequest size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qed.h DW_AT_decl_line:122 DW_AT_decl_column:16  
+name:QEMUBH size:0x38 DW_AT_decl_file:C:\w\qemu\build/../util/async.c DW_AT_decl_line:62 DW_AT_decl_column:8  
+name:QEMUClock size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-timer.c DW_AT_decl_line:48 DW_AT_decl_column:16  
+name:QemuCond size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/thread-win32.h DW_AT_decl_line:21 DW_AT_decl_column:8  
+name:QemuCoSleep size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine.h DW_AT_decl_line:225 DW_AT_decl_column:16  
+name:QemuCoTimeoutState size:0x28 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-co-timeout.c DW_AT_decl_line:30 DW_AT_decl_column:16  
+name:QemuEvent size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/thread-win32.h DW_AT_decl_line:31 DW_AT_decl_column:8  
+name:QEMUIOVector size:0x28 DW_AT_decl_file:C:/w/qemu/include/qemu/iov.h DW_AT_decl_line:183 DW_AT_decl_column:16  
+name:qemu_irq DW_AT_decl_file:C:/w/qemu/include/qemu/typedefs.h DW_AT_decl_line:128 DW_AT_decl_column:26  DW_TAG_pointer_type size:8  
+name:QemuLockable size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/lockable.h DW_AT_decl_line:21 DW_AT_decl_column:16  
+name:QemuLockCnt size:0x20 DW_AT_decl_file:C:/w/qemu/include/qemu/lockcnt.h DW_AT_decl_line:19 DW_AT_decl_column:8  
+name:QEMULogItem size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/log.h DW_AT_decl_line:78 DW_AT_decl_column:16  
+name:QemuMutexLockFunc DW_AT_decl_file:C:/w/qemu/include/qemu/thread.h DW_AT_decl_line:41 DW_AT_decl_column:16  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  
+name:QemuMutex size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/thread-win32.h DW_AT_decl_line:6 DW_AT_decl_column:8  
+name:QemuOptDesc size:0x20 DW_AT_decl_file:C:/w/qemu/include/qemu/option.h DW_AT_decl_line:59 DW_AT_decl_column:16  
+name:QemuOpts DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:QemuOpt size:0x38 DW_AT_decl_file:C:/w/qemu/include/qemu/option_int.h DW_AT_decl_line:32 DW_AT_decl_column:8  
+name:QemuOptsList size:0x28 DW_AT_decl_file:C:/w/qemu/include/qemu/option.h DW_AT_decl_line:66 DW_AT_decl_column:8  
+name:QemuOpts size:0x48 DW_AT_decl_file:C:/w/qemu/include/qemu/option_int.h DW_AT_decl_line:46 DW_AT_decl_column:8  
+name:QemuOptType DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/qemu/option.h DW_AT_decl_line:50 DW_AT_decl_column:6  DW_TAG_enumerator 
+name:QemuRecMutex size:0x30 DW_AT_decl_file:C:/w/qemu/include/qemu/thread-win32.h DW_AT_decl_line:16 DW_AT_decl_column:8  
+name:QemuSemaphore size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/thread-win32.h DW_AT_decl_line:26 DW_AT_decl_column:8  
+name:QemuSeqLock size:0x04 DW_AT_decl_file:C:/w/qemu/include/qemu/seqlock.h DW_AT_decl_line:23 DW_AT_decl_column:8  
+name:QEMUSnapshotInfo size:0x01a0 DW_AT_decl_file:C:/w/qemu/include/block/snapshot.h DW_AT_decl_line:37 DW_AT_decl_column:16  
+name:QemuSpin size:0x04 DW_AT_decl_file:C:/w/qemu/include/qemu/thread.h DW_AT_decl_line:232 DW_AT_decl_column:8  
+name:QemuThreadData DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
+name:QemuThreadData DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:QemuThreadData size:0x58 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-thread-win32.c DW_AT_decl_line:363 DW_AT_decl_column:8  
+name:QemuThread size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/thread-win32.h DW_AT_decl_line:38 DW_AT_decl_column:8  
+name:QEMUTimerListGroup size:0x20 DW_AT_decl_file:C:/w/qemu/include/qemu/timer.h DW_AT_decl_line:77 DW_AT_decl_column:8  
+name:QEMUTimerList size:0x60 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-timer.c DW_AT_decl_line:66 DW_AT_decl_column:8  
+name:QEMUTimer size:0x30 DW_AT_decl_file:C:/w/qemu/include/qemu/timer.h DW_AT_decl_line:84 DW_AT_decl_column:8  
+name:QEMUWin32AIOCB size:0x70 DW_AT_decl_file:C:\w\qemu\build/../block/win32-aio.c DW_AT_decl_line:48 DW_AT_decl_column:16  
+name:QEMUWin32AIOState size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/win32-aio.c DW_AT_decl_line:41 DW_AT_decl_column:8  
+name:QEnumLookup size:0x18 DW_AT_decl_file:C:/w/qemu/include/qapi/util.h DW_AT_decl_line:19 DW_AT_decl_column:16  
+name:QFileMonitor DW_AT_declaration:true  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/w/qemu/include/qemu/filemonitor.h DW_AT_decl_line:28 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QFileMonitor DW_AT_declaration:true  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/qemu/filemonitor.h DW_AT_decl_line:28 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:qht_bucket size:0x40 align:0x40 DW_AT_decl_file:C:\w\qemu\build/../util/qht.c DW_AT_decl_line:144 DW_AT_decl_column:8  
+name:qht_iter_func_t DW_AT_decl_file:C:/w/qemu/include/qemu/qht.h DW_AT_decl_line:46 DW_AT_decl_column:16  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  DW_TAG_formal_parameter  DW_TAG_formal_parameter  
+name:qht_iter size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/qht.c DW_AT_decl_line:98 DW_AT_decl_column:8  
+name:qht_map_copy_data size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/qht.c DW_AT_decl_line:901 DW_AT_decl_column:8  
+name:qht_map DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:qht_map size:0x30 DW_AT_decl_file:C:\w\qemu\build/../util/qht.c DW_AT_decl_line:183 DW_AT_decl_column:8  
+name:qht size:0x30 DW_AT_decl_file:C:/w/qemu/include/qemu/qht.h DW_AT_decl_line:16 DW_AT_decl_column:8  
+name:qht_stats size:0x48 DW_AT_decl_file:C:/w/qemu/include/qemu/qht.h DW_AT_decl_line:37 DW_AT_decl_column:8  
+name:QIOChannelBuffer size:0x88 DW_AT_decl_file:C:/w/qemu/include/io/channel-buffer.h DW_AT_decl_line:39 DW_AT_decl_column:8  
+name:QIOChannelBufferSource size:0x70 DW_AT_decl_file:C:\w\qemu\build/../io/channel-buffer.c DW_AT_decl_line:154 DW_AT_decl_column:8  
+name:QIOChannelClass size:0xd0 DW_AT_decl_file:C:/w/qemu/include/io/channel.h DW_AT_decl_line:107 DW_AT_decl_column:8  
+name:QIOChannelCommand size:0x80 DW_AT_decl_file:C:/w/qemu/include/io/channel-command.h DW_AT_decl_line:40 DW_AT_decl_column:8  
+name:QIOChannelFDPairSource size:0x90 DW_AT_decl_file:C:\w\qemu\build/../io/channel-watch.c DW_AT_decl_line:48 DW_AT_decl_column:8  
+name:QIOChannelFDSource size:0x80 DW_AT_decl_file:C:\w\qemu\build/../io/channel-watch.c DW_AT_decl_line:25 DW_AT_decl_column:8  
+name:QIOChannelFile size:0x70 DW_AT_decl_file:C:/w/qemu/include/io/channel-file.h DW_AT_decl_line:44 DW_AT_decl_column:8  
+name:QIOChannelListenWorkerData size:0x10 DW_AT_decl_file:C:\w\qemu\build/../io/channel-socket.c DW_AT_decl_line:246 DW_AT_decl_column:8  
+name:QIOChannelNull size:0x70 DW_AT_decl_file:C:/w/qemu/include/io/channel-null.h DW_AT_decl_line:38 DW_AT_decl_column:8  
+name:QIOChannelNullSource size:0x70 DW_AT_decl_file:C:\w\qemu\build/../io/channel-null.c DW_AT_decl_line:29 DW_AT_decl_column:8  
+name:QIOChannel size:0x68 DW_AT_decl_file:C:/w/qemu/include/io/channel.h DW_AT_decl_line:81 DW_AT_decl_column:8  
+name:QIOChannelSocketDGramWorkerData size:0x10 DW_AT_decl_file:C:\w\qemu\build/../io/channel-socket.c DW_AT_decl_line:322 DW_AT_decl_column:8  
+name:QIOChannelSocket size:0x0190 DW_AT_decl_file:C:/w/qemu/include/io/channel-socket.h DW_AT_decl_line:43 DW_AT_decl_column:8  
+name:QIOChannelSocketSource size:0x88 DW_AT_decl_file:C:\w\qemu\build/../io/channel-watch.c DW_AT_decl_line:35 DW_AT_decl_column:8  
+name:QIOChannelTLSData size:0x10 DW_AT_decl_file:C:\w\qemu\build/../io/channel-tls.c DW_AT_decl_line:150 DW_AT_decl_column:8  
+name:QIOChannelTLS size:0x80 DW_AT_decl_file:C:/w/qemu/include/io/channel-tls.h DW_AT_decl_line:46 DW_AT_decl_column:8  
+name:QIOChannelTLSSource size:0x68 DW_AT_decl_file:C:\w\qemu\build/../io/channel-tls.c DW_AT_decl_line:399 DW_AT_decl_column:8  
+name:QIOChannelWebsockHeader size:0x0e DW_AT_decl_file:C:\w\qemu\build/../io/channel-websock.c DW_AT_decl_line:128 DW_AT_decl_column:20  
+name:QIOChannelWebsockHTTPHeader size:0x10 DW_AT_decl_file:C:\w\qemu\build/../io/channel-websock.c DW_AT_decl_line:146 DW_AT_decl_column:8  
+name:QIOChannelWebsock size:0x0110 DW_AT_decl_file:C:/w/qemu/include/io/channel-websock.h DW_AT_decl_line:55 DW_AT_decl_column:8  
+name:QIOChannelWebsockSource size:0x70 DW_AT_decl_file:C:\w\qemu\build/../io/channel-websock.c DW_AT_decl_line:1226 DW_AT_decl_column:8  
+name:QIODNSResolverLookupData size:0x18 DW_AT_decl_file:C:\w\qemu\build/../io/dns-resolver.c DW_AT_decl_line:181 DW_AT_decl_column:8  
+name:QIODNSResolver size:0x28 DW_AT_decl_file:C:/w/qemu/include/io/dns-resolver.h DW_AT_decl_line:132 DW_AT_decl_column:8  
+name:QIONetListenerClientWaitData size:0x10 DW_AT_decl_file:C:\w\qemu\build/../io/net-listener.c DW_AT_decl_line:181 DW_AT_decl_column:8  
+name:QIONetListener size:0x68 DW_AT_decl_file:C:/w/qemu/include/io/net-listener.h DW_AT_decl_line:46 DW_AT_decl_column:8  
+name:QIOTaskFunc DW_AT_decl_file:C:/w/qemu/include/io/task.h DW_AT_decl_line:26 DW_AT_decl_column:16  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  DW_TAG_formal_parameter  
+name:QIOTask size:0x68 DW_AT_decl_file:C:\w\qemu\build/../io/task.c DW_AT_decl_line:37 DW_AT_decl_column:8  
+name:QIOTaskThreadData size:0x28 DW_AT_decl_file:C:\w\qemu\build/../io/task.c DW_AT_decl_line:28 DW_AT_decl_column:8  
+name:QListEntry size:0x18 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qlist.h DW_AT_decl_line:19 DW_AT_decl_column:16  
+name:QList size:0x20 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qlist.h DW_AT_decl_line:24 DW_AT_decl_column:8  
+name:QmpCommand size:0x38 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/dispatch.h DW_AT_decl_line:30 DW_AT_decl_column:16  
+name:QmpDispatchBH size:0x30 DW_AT_decl_file:C:\w\qemu\build/../qapi/qmp-dispatch.c DW_AT_decl_line:113 DW_AT_decl_column:16  
+name:QNull size:0x10 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qnull.h DW_AT_decl_line:18 DW_AT_decl_column:8  
+name:QNull size:16 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qnull.h DW_AT_decl_line:18 DW_AT_decl_column:8  
+name:QNum size:0x20 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qnum.h DW_AT_decl_line:47 DW_AT_decl_column:8  
+name:q_obj_block_commit_arg size:0x60 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1802 DW_AT_decl_column:8  
+name:q_obj_BlockdevAmendOptions_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3483 DW_AT_decl_column:8  
+name:q_obj_blockdev_change_medium_arg size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:125 DW_AT_decl_column:8  
+name:q_obj_blockdev_close_tray_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:111 DW_AT_decl_column:8  
+name:q_obj_blockdev_create_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3450 DW_AT_decl_column:8  
+name:q_obj_BlockdevCreateOptions_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3423 DW_AT_decl_column:8  
+name:q_obj_blockdev_del_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3216 DW_AT_decl_column:8  
+name:q_obj_blockdev_insert_medium_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:120 DW_AT_decl_column:8  
+name:q_obj_blockdev_mirror_arg size:0x70 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1978 DW_AT_decl_column:8  
+name:q_obj_blockdev_open_tray_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:104 DW_AT_decl_column:8  
+name:q_obj_BlockdevOptions_base size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3081 DW_AT_decl_column:8  
+name:q_obj_BlockdevQcow2Encryption_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2376 DW_AT_decl_column:8  
+name:q_obj_BlockdevQcowEncryption_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2346 DW_AT_decl_column:8  
+name:q_obj_blockdev_remove_medium_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:116 DW_AT_decl_column:8  
+name:q_obj_blockdev_reopen_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3212 DW_AT_decl_column:8  
+name:q_obj_blockdev_snapshot_delete_internal_sync_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3610 DW_AT_decl_column:8  
+name:q_obj_BLOCK_IMAGE_CORRUPTED_arg size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3506 DW_AT_decl_column:8  
+name:q_obj_BLOCK_IO_ERROR_arg size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3517 DW_AT_decl_column:8  
+name:q_obj_block_job_cancel_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2158 DW_AT_decl_column:8  
+name:q_obj_BLOCK_JOB_CANCELLED_arg size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3537 DW_AT_decl_column:8  
+name:q_obj_BlockJobChangeOptions_base size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2191 DW_AT_decl_column:8  
+name:q_obj_block_job_complete_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2172 DW_AT_decl_column:8  
+name:q_obj_BLOCK_JOB_COMPLETED_arg size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3528 DW_AT_decl_column:8  
+name:q_obj_block_job_dismiss_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2176 DW_AT_decl_column:8  
+name:q_obj_BLOCK_JOB_ERROR_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3545 DW_AT_decl_column:8  
+name:q_obj_block_job_finalize_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2180 DW_AT_decl_column:8  
+name:q_obj_BlockJobInfo_base size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1606 DW_AT_decl_column:8  
+name:q_obj_block_job_pause_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2164 DW_AT_decl_column:8  
+name:q_obj_BLOCK_JOB_PENDING_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3559 DW_AT_decl_column:8  
+name:q_obj_BLOCK_JOB_READY_arg size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3551 DW_AT_decl_column:8  
+name:q_obj_block_job_resume_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2168 DW_AT_decl_column:8  
+name:q_obj_block_job_set_speed_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2153 DW_AT_decl_column:8  
+name:q_obj_block_latency_histogram_set_arg size:0x58 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:147 DW_AT_decl_column:8  
+name:q_obj_block_resize_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1652 DW_AT_decl_column:8  
+name:q_obj_block_set_write_threshold_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3570 DW_AT_decl_column:8  
+name:q_obj_BlockStatsSpecific_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1555 DW_AT_decl_column:8  
+name:q_obj_block_stream_arg size:0x60 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2133 DW_AT_decl_column:8  
+name:q_obj_BLOCK_WRITE_THRESHOLD_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3564 DW_AT_decl_column:8  
+name:q_obj_change_backing_file_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1796 DW_AT_decl_column:8  
+name:q_obj_DEVICE_TRAY_MOVED_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:136 DW_AT_decl_column:8  
+name:QObjectBase_ size:0x10 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qobject.h DW_AT_decl_line:38 DW_AT_decl_column:8  
+name:QObjectBase_ size:16 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qobject.h DW_AT_decl_line:38 DW_AT_decl_column:8  
+name:QObject DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:QObjectInputVisitor size:0xf8 DW_AT_decl_file:C:\w\qemu\build/../qapi/qobject-input-visitor.c DW_AT_decl_line:45 DW_AT_decl_column:8  
+name:QObjectOutputVisitor size:0xf0 DW_AT_decl_file:C:\w\qemu\build/../qapi/qobject-output-visitor.c DW_AT_decl_line:33 DW_AT_decl_column:8  
+name:QObject size:0x10 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qobject.h DW_AT_decl_line:44 DW_AT_decl_column:8  
+name:QObject size:16 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qobject.h DW_AT_decl_line:44 DW_AT_decl_column:8  
+name:q_obj_eject_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:97 DW_AT_decl_column:8  
+name:q_obj_ImageInfoSpecific_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1145 DW_AT_decl_column:8  
+name:q_obj_job_cancel_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:104 DW_AT_decl_column:8  
+name:q_obj_job_complete_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:108 DW_AT_decl_column:8  
+name:q_obj_job_dismiss_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:112 DW_AT_decl_column:8  
+name:q_obj_job_finalize_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:116 DW_AT_decl_column:8  
+name:q_obj_job_pause_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:96 DW_AT_decl_column:8  
+name:q_obj_job_resume_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:100 DW_AT_decl_column:8  
+name:q_obj_JOB_STATUS_CHANGE_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-job.h DW_AT_decl_line:91 DW_AT_decl_column:8  
+name:q_obj_object_del_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:1017 DW_AT_decl_column:8  
+name:q_obj_ObjectOptions_base size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:938 DW_AT_decl_column:8  
+name:q_obj_PR_MANAGER_STATUS_CHANGED_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block.h DW_AT_decl_line:142 DW_AT_decl_column:8  
+name:q_obj_QCryptoAkCipherOptions_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:513 DW_AT_decl_column:8  
+name:q_obj_qom_get_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:241 DW_AT_decl_column:8  
+name:q_obj_qom_list_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:229 DW_AT_decl_column:8  
+name:q_obj_qom_list_properties_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:276 DW_AT_decl_column:8  
+name:q_obj_qom_list_types_arg size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:262 DW_AT_decl_column:8  
+name:q_obj_qom_set_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:246 DW_AT_decl_column:8  
+name:q_obj_query_blockstats_arg size:0x02 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1586 DW_AT_decl_column:8  
+name:q_obj_query_named_block_nodes_arg size:0x02 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1823 DW_AT_decl_column:8  
+name:q_obj_QUORUM_FAILURE_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3588 DW_AT_decl_column:8  
+name:q_obj_QUORUM_REPORT_BAD_arg size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3594 DW_AT_decl_column:8  
+name:q_obj_RbdEncryptionCreateOptions_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2803 DW_AT_decl_column:8  
+name:q_obj_RbdEncryptionOptions_base size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2785 DW_AT_decl_column:8  
+name:q_obj_SocketAddress_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:187 DW_AT_decl_column:8  
+name:q_obj_SocketAddressLegacy_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:170 DW_AT_decl_column:8  
+name:q_obj_SshHostKeyCheck_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2455 DW_AT_decl_column:8  
+name:q_obj_x_blockdev_amend_arg size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3498 DW_AT_decl_column:8  
+name:q_obj_x_blockdev_change_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3575 DW_AT_decl_column:8  
+name:q_obj_x_blockdev_set_iothread_arg size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:3581 DW_AT_decl_column:8  
+name:q_obj_yank_arg size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-yank.h DW_AT_decl_line:79 DW_AT_decl_column:8  
+name:q_obj_YankInstance_base size:0x04 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-yank.h DW_AT_decl_line:56 DW_AT_decl_column:8  
+name:QSPCallSite size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/qsp.c DW_AT_decl_line:75 DW_AT_decl_column:8  
+name:QSPEntry size:0x28 align:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/qsp.c DW_AT_decl_line:83 DW_AT_decl_column:8  
+name:QSPReportEntry size:0x38 DW_AT_decl_file:C:\w\qemu\build/../util/qsp.c DW_AT_decl_line:661 DW_AT_decl_column:8  
+name:QSPReport size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/qsp.c DW_AT_decl_line:672 DW_AT_decl_column:8  
+name:QSPSnapshot size:0x40 DW_AT_decl_file:C:\w\qemu\build/../util/qsp.c DW_AT_decl_line:92 DW_AT_decl_column:8  
+name:QStackEntry size:0x18 DW_AT_decl_file:C:\w\qemu\build/../qapi/qobject-output-visitor.c DW_AT_decl_line:27 DW_AT_decl_column:16  
+name:QString size:0x18 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qstring.h DW_AT_decl_line:18 DW_AT_decl_column:8  
+name:QTailQLink size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/queue.h DW_AT_decl_line:385 DW_AT_decl_column:16  
+name:QTailQLink size:16 DW_AT_decl_file:C:/w/qemu/include/qemu/queue.h DW_AT_decl_line:385 DW_AT_decl_column:16  
+name:QtestProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:769 DW_AT_decl_column:8  
+name:QtestProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:769 DW_AT_decl_column:8  
+name:QType DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:48 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QType DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:48 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:QuorumAIOCB size:0x68 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:117 DW_AT_decl_column:8  
+name:QuorumChildRequest size:0x48 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:104 DW_AT_decl_column:16  
+name:QuorumCo size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:143 DW_AT_decl_column:16  
+name:QuorumVoteItem size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:48 DW_AT_decl_column:16  
+name:QuorumVotes size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:67 DW_AT_decl_column:16  
+name:QuorumVoteVersion size:0x40 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:58 DW_AT_decl_column:16  
+name:Range size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/range.h DW_AT_decl_line:31 DW_AT_decl_column:8  
+name:RawWin32AIOData size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/file-win32.c DW_AT_decl_line:45 DW_AT_decl_column:16  
+name:RbdAuthModeList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2818 DW_AT_decl_column:8  
+name:RbdAuthModeList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2818 DW_AT_decl_column:8  
+name:RbdEncryptionCreateOptionsLUKS2 size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2769 DW_AT_decl_column:8  
+name:RbdEncryptionCreateOptionsLUKS2 size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2769 DW_AT_decl_column:8  
+name:RbdEncryptionCreateOptionsLUKSBase size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2695 DW_AT_decl_column:8  
+name:RbdEncryptionCreateOptionsLUKS size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2753 DW_AT_decl_column:8  
+name:RbdEncryptionCreateOptionsLUKS size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2753 DW_AT_decl_column:8  
+name:RbdEncryptionCreateOptions size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2807 DW_AT_decl_column:8  
+name:RbdEncryptionCreateOptions size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2807 DW_AT_decl_column:8  
+name:RbdEncryptionOptionsLUKS2 size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2725 DW_AT_decl_column:8  
+name:RbdEncryptionOptionsLUKS2 size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2725 DW_AT_decl_column:8  
+name:RbdEncryptionOptionsLUKSAny size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2739 DW_AT_decl_column:8  
+name:RbdEncryptionOptionsLUKSAny size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2739 DW_AT_decl_column:8  
+name:RbdEncryptionOptionsLUKSBase size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2688 DW_AT_decl_column:8  
+name:RbdEncryptionOptionsLUKS size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2711 DW_AT_decl_column:8  
+name:RbdEncryptionOptionsLUKS size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2711 DW_AT_decl_column:8  
+name:RbdEncryptionOptions size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2790 DW_AT_decl_column:8  
+name:RbdEncryptionOptions size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2790 DW_AT_decl_column:8  
+name:RCUCloseFILE size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/log.c DW_AT_decl_line:35 DW_AT_decl_column:16  
+name:rcu_drain size:0x28 DW_AT_decl_file:C:\w\qemu\build/../util/rcu.c DW_AT_decl_line:317 DW_AT_decl_column:8  
+name:rcu_head size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/rcu.h DW_AT_decl_line:138 DW_AT_decl_column:8  
+name:rcu_reader_data size:0x28 DW_AT_decl_file:C:/w/qemu/include/qemu/rcu.h DW_AT_decl_line:57 DW_AT_decl_column:8  
+name:RemoteObjectProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:777 DW_AT_decl_column:8  
+name:RemoteObjectProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:777 DW_AT_decl_column:8  
+name:ReplayClockKind DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:/w/qemu/include/sysemu/replay.h DW_AT_decl_line:25 DW_AT_decl_column:6  DW_TAG_enumerator 
+name:ReplicationOps size:0x20 DW_AT_decl_file:C:/w/qemu/include/block/replication.h DW_AT_decl_line:110 DW_AT_decl_column:8  
+name:ReplicationOps size:32 DW_AT_decl_file:C:/w/qemu/include/block/replication.h DW_AT_decl_line:110 DW_AT_decl_column:8  
+name:ReplicationState size:0x20 DW_AT_decl_file:C:/w/qemu/include/block/replication.h DW_AT_decl_line:97 DW_AT_decl_column:8  
+name:ReplicationState size:32 DW_AT_decl_file:C:/w/qemu/include/block/replication.h DW_AT_decl_line:97 DW_AT_decl_column:8  
+name:ResettableState size:0x08 DW_AT_decl_file:C:/w/qemu/include/hw/resettable.h DW_AT_decl_line:141 DW_AT_decl_column:8  
+name:RngEgdProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:824 DW_AT_decl_column:8  
+name:RngEgdProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:824 DW_AT_decl_column:8  
+name:RngProperties size:0x02 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:816 DW_AT_decl_column:8  
+name:RngProperties size:0x02 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:816 DW_AT_decl_column:8  
+name:_RTL_CONDITION_VARIABLE size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:9342 DW_AT_decl_column:20  
+name:_RTL_CRITICAL_SECTION_DEBUG size:0x30 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:9304 DW_AT_decl_column:20  
+name:_RTL_CRITICAL_SECTION_DEBUG size:0x30 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:9304 DW_AT_decl_column:20  
+name:_RTL_CRITICAL_SECTION size:0x28 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:9331 DW_AT_decl_column:20  
+name:_RTL_CRITICAL_SECTION size:0x28 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:9331 DW_AT_decl_column:20  
+name:_RTL_SRWLOCK size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:9341 DW_AT_decl_column:20  
+name:RunState DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-run-state.h DW_AT_decl_line:18 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:_SCOPE_ID size:0x04 DW_AT_decl_file:C:/msys64/mingw64/include/ws2def.h DW_AT_decl_line:28 DW_AT_decl_column:16  offset:0x00  
+name:SCSICommand size:0x30 DW_AT_decl_file:C:/w/qemu/include/scsi/utils.h DW_AT_decl_line:35 DW_AT_decl_column:16  
+name:SCSISense size:0x03 DW_AT_decl_file:C:/w/qemu/include/scsi/utils.h DW_AT_decl_line:43 DW_AT_decl_column:16  
+name:SecretCommonProperties size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:381 DW_AT_decl_column:8  
+name:SecretProperties size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:391 DW_AT_decl_column:8  
+name:SecretProperties size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:391 DW_AT_decl_column:8  
+name:_SECURITY_ATTRIBUTES size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/minwinbase.h DW_AT_decl_line:13 DW_AT_decl_column:18  
+name:SevCommonProperties size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:860 DW_AT_decl_column:8  
+name:SevGuestProperties size:0x40 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:872 DW_AT_decl_column:8  
+name:SevGuestProperties size:0x40 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:872 DW_AT_decl_column:8  
+name:SevSnpGuestProperties size:0x50 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:899 DW_AT_decl_column:8  
+name:SevSnpGuestProperties size:0x50 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:899 DW_AT_decl_column:8  
+name:sftp_attributes_struct size:0x90 DW_AT_decl_file:C:/msys64/mingw64/include/libssh/sftp.h DW_AT_decl_line:164 DW_AT_decl_column:8  
+name:sftp_file DW_AT_decl_file:C:/msys64/mingw64/include/libssh/sftp.h DW_AT_decl_line:73 DW_AT_decl_column:34  DW_TAG_pointer_type size:8  
+name:sftp_file_struct size:0x28 DW_AT_decl_file:C:/msys64/mingw64/include/libssh/sftp.h DW_AT_decl_line:105 DW_AT_decl_column:8  
+name:sftp_limits_struct size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/libssh/sftp.h DW_AT_decl_line:209 DW_AT_decl_column:8  
+name:sftp_message_struct size:0x20 DW_AT_decl_file:C:/msys64/mingw64/include/libssh/sftp.h DW_AT_decl_line:123 DW_AT_decl_column:8  
+name:sftp_packet_struct size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/libssh/sftp.h DW_AT_decl_line:98 DW_AT_decl_column:8  
+name:sftp_request_queue_struct size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/libssh/sftp.h DW_AT_decl_line:149 DW_AT_decl_column:8  
+name:sftp_session_struct size:0x50 DW_AT_decl_file:C:/msys64/mingw64/include/libssh/sftp.h DW_AT_decl_line:83 DW_AT_decl_column:8  
+name:SharedResource size:0x38 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-co-shared-resource.c DW_AT_decl_line:30 DW_AT_decl_column:8  
+name:sizeList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:152 DW_AT_decl_column:8  
+name:SnapshotInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1163 DW_AT_decl_column:8  
+name:SnapshotInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1163 DW_AT_decl_column:8  
+name:SnapshotInfo size:0x48 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:995 DW_AT_decl_column:8  
+name:SnapshotInfo size:0x48 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:995 DW_AT_decl_column:8  
+name:sockaddr_in6 size:0x1c DW_AT_decl_file:C:/msys64/mingw64/include/ws2ipdef.h DW_AT_decl_line:140 DW_AT_decl_column:8  
+name:sockaddr_in size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/psdk_inc/_ip_types.h DW_AT_decl_line:75 DW_AT_decl_column:8  
+name:sockaddr size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/psdk_inc/_ip_types.h DW_AT_decl_line:70 DW_AT_decl_column:8  
+name:sockaddr_storage size:0x80 DW_AT_decl_file:C:/msys64/mingw64/include/winsock2.h DW_AT_decl_line:269 DW_AT_decl_column:10  
+name:sockaddr_un size:0x6e DW_AT_decl_file:C:/msys64/mingw64/include/afunix.h DW_AT_decl_line:12 DW_AT_decl_column:16  
+name:SocketAddressLegacy size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:174 DW_AT_decl_column:8  
+name:SocketAddressLegacy size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:174 DW_AT_decl_column:8  
+name:SocketAddressList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:204 DW_AT_decl_column:8  
+name:SocketAddressList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:204 DW_AT_decl_column:8  
+name:SocketAddress size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:191 DW_AT_decl_column:8  
+name:SocketAddress size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:191 DW_AT_decl_column:8  
+name:sSecInfo size:0x28 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/crt/pseudo-reloc.c DW_AT_decl_line:170 DW_AT_decl_column:16  
+name:ssh_auth_e DW_AT_encoding:DW_ATE_signed size:4 DW_AT_decl_file:C:/msys64/mingw64/include/libssh/libssh.h DW_AT_decl_line:143 DW_AT_decl_column:6  DW_TAG_enumerator 
+name:ssh_channel DW_AT_decl_file:C:/msys64/mingw64/include/libssh/libssh.h DW_AT_decl_line:100 DW_AT_decl_column:36  DW_TAG_pointer_type size:8  
+name:SshHostKeyCheck size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2459 DW_AT_decl_column:8  
+name:SshHostKeyCheck size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2459 DW_AT_decl_column:8  
+name:SshHostKeyHash size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2447 DW_AT_decl_column:8  
+name:SshHostKeyHash size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2447 DW_AT_decl_column:8  
+name:ssh_key DW_AT_decl_file:C:/msys64/mingw64/include/libssh/libssh.h DW_AT_decl_line:103 DW_AT_decl_column:32  DW_TAG_const_type  DW_TAG_pointer_type size:8  
+name:ssh_session DW_AT_decl_file:C:/msys64/mingw64/include/libssh/libssh.h DW_AT_decl_line:105 DW_AT_decl_column:36  DW_TAG_pointer_type size:8  
+name:ssh_string DW_AT_decl_file:C:/msys64/mingw64/include/libssh/libssh.h DW_AT_decl_line:106 DW_AT_decl_column:35  DW_TAG_pointer_type size:8  
+name:StackObject size:0x38 DW_AT_decl_file:C:\w\qemu\build/../qapi/qobject-input-visitor.c DW_AT_decl_line:33 DW_AT_decl_column:16  
+name:Stat64 size:0x08 align:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/stats64.h DW_AT_decl_line:22 DW_AT_decl_column:16  
+name:_stat64 size:0x38 DW_AT_decl_file:C:/msys64/mingw64/include/_mingw_stat64.h DW_AT_decl_line:77 DW_AT_decl_column:10  
+name:StreamBlockJob size:0x0218 DW_AT_decl_file:C:\w\qemu\build/../block/stream.c DW_AT_decl_line:33 DW_AT_decl_column:16  
+name:StringInputVisitor size:0x0108 DW_AT_decl_file:C:\w\qemu\build/../qapi/string-input-visitor.c DW_AT_decl_line:43 DW_AT_decl_column:8  
+name:StringOutputVisitor size:0x0120 DW_AT_decl_file:C:\w\qemu\build/../qapi/string-output-visitor.c DW_AT_decl_line:55 DW_AT_decl_column:8  
+name:StringProperty size:0x10 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:2238 DW_AT_decl_column:16  
+name:strList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:64 DW_AT_decl_column:8  
+name:strList size:16 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:64 DW_AT_decl_column:8  
+name:StrOrNull size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-common.h DW_AT_decl_line:145 DW_AT_decl_column:8  
+name:_SYSTEM_INFO size:0x30 DW_AT_decl_file:C:/msys64/mingw64/include/sysinfoapi.h DW_AT_decl_line:18 DW_AT_decl_column:18  offset:0x00  
+name:_SYSTEMTIME size:0x10 DW_AT_decl_file:D:/a/msys64/mingw64/include/minwinbase.h DW_AT_decl_line:49 DW_AT_decl_column:18  
+name:ThreadContext DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:ThreadContextProperties size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:928 DW_AT_decl_column:8  
+name:ThreadContextProperties size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:928 DW_AT_decl_column:8  
+name:ThreadPoolCo size:16 DW_AT_decl_file:C:\w\qemu\build/../util/thread-pool.c DW_AT_decl_line:271 DW_AT_decl_column:16  
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:4 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine.c DW_AT_decl_line:24 DW_AT_decl_column:6  DW_TAG_enumerator 
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_enumeration_type 
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_subprogram DW_AT_external:true 
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_subroutine_type DW_AT_prototyped:true  DW_TAG_formal_parameter  
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:ThreadPool DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_variable 
+name:ThreadPool DW_AT_decl_file:C:/w/qemu/include/block/thread-pool.h DW_AT_decl_line:27 DW_AT_decl_column:27  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  
+name:ThreadPoolElement size:0x68 DW_AT_decl_file:C:\w\qemu\build/../util/thread-pool.c DW_AT_decl_line:36 DW_AT_decl_column:8  
+name:ThreadPool size:0x80 DW_AT_decl_file:C:\w\qemu\build/../util/thread-pool.c DW_AT_decl_line:56 DW_AT_decl_column:8  
+name:ThrottleConfig size:0xf8 DW_AT_decl_file:C:/w/qemu/include/qemu/throttle.h DW_AT_decl_line:92 DW_AT_decl_column:16  
+name:ThrottleGroupMember size:0xb0 DW_AT_decl_file:C:/w/qemu/include/block/throttle-groups.h DW_AT_decl_line:36 DW_AT_decl_column:16  
+name:ThrottleGroupProperties size:0x0138 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2088 DW_AT_decl_column:8  
+name:ThrottleGroupProperties size:0x0138 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2088 DW_AT_decl_column:8  
+name:ThrottleGroup size:0x0180 DW_AT_decl_file:C:\w\qemu\build/../block/throttle-groups.c DW_AT_decl_line:66 DW_AT_decl_column:8  
+name:ThrottleLimits size:0x0130 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:2044 DW_AT_decl_column:8  
+name:ThrottleLimits size:0x0130 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:2044 DW_AT_decl_column:8  
+name:ThrottleState size:0x0100 DW_AT_decl_file:C:/w/qemu/include/qemu/throttle.h DW_AT_decl_line:97 DW_AT_decl_column:16  
+name:ThrottleTimers size:0x30 DW_AT_decl_file:C:/w/qemu/include/qemu/throttle.h DW_AT_decl_line:108 DW_AT_decl_column:16  
+name:__tI128_2 size:0x10 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_pformat.c DW_AT_decl_line:97 DW_AT_decl_column:34  
+name:__tI128 size:0x10 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_pformat.c DW_AT_decl_line:93 DW_AT_decl_column:34  
+name:TimedAverage size:0x60 DW_AT_decl_file:C:/w/qemu/include/qemu/timed-average.h DW_AT_decl_line:46 DW_AT_decl_column:8  
+name:TimedAverageWindow size:0x28 DW_AT_decl_file:C:/w/qemu/include/qemu/timed-average.h DW_AT_decl_line:38 DW_AT_decl_column:8  
+name:timespec size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/sys/types.h DW_AT_decl_line:89 DW_AT_decl_column:8  
+name:timespec size:0x10 DW_AT_decl_file:D:/a/msys64/mingw64/include/sys/timeb.h DW_AT_decl_line:101 DW_AT_decl_column:8  
+name:timeval size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/_timeval.h DW_AT_decl_line:10 DW_AT_decl_column:8  
+name:timeval size:0x08 DW_AT_decl_file:D:/a/msys64/mingw64/include/_timeval.h DW_AT_decl_line:10 DW_AT_decl_column:8  
+name:_TIME_ZONE_INFORMATION size:0xac DW_AT_decl_file:D:/a/msys64/mingw64/include/timezoneapi.h DW_AT_decl_line:21 DW_AT_decl_column:18  
+name:timezone size:0x08 DW_AT_decl_file:D:/a/msys64/mingw64/include/time.h DW_AT_decl_line:284 DW_AT_decl_column:8  
+name:TlsCredsAnonProperties size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:444 DW_AT_decl_column:8  
+name:TlsCredsAnonProperties size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:444 DW_AT_decl_column:8  
+name:TlsCredsProperties size:0x20 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:432 DW_AT_decl_column:8  
+name:TlsCredsProperties size:0x20 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:432 DW_AT_decl_column:8  
+name:TlsCredsPskProperties size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:463 DW_AT_decl_column:8  
+name:TlsCredsPskProperties size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:463 DW_AT_decl_column:8  
+name:TlsCredsX509Properties size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-crypto.h DW_AT_decl_line:483 DW_AT_decl_column:8  
+name:TlsCredsX509Properties size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-crypto.h DW_AT_decl_line:483 DW_AT_decl_column:8  
+name:TMProperty size:0x08 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:2453 DW_AT_decl_column:16  
+name:tm size:0x24 DW_AT_decl_file:C:/msys64/mingw64/include/time.h DW_AT_decl_line:100 DW_AT_decl_column:10  
+name:TraceEventGroup size:0x08 DW_AT_decl_file:C:\w\qemu\build/../trace/control.c DW_AT_decl_line:33 DW_AT_decl_column:16  
+name:TraceEventIter size:0x20 DW_AT_decl_file:C:/w/qemu/trace/control.h DW_AT_decl_line:15 DW_AT_decl_column:16  
+name:TraceEvent size:0x20 DW_AT_decl_file:C:/w/qemu/trace/event-internal.h DW_AT_decl_line:33 DW_AT_decl_column:16  
+name:TransactionActionDrv size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/transactions.h DW_AT_decl_line:44 DW_AT_decl_column:16  
+name:TransactionAction size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/transactions.c DW_AT_decl_line:28 DW_AT_decl_column:16  
+name:Transaction size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/transactions.c DW_AT_decl_line:34 DW_AT_decl_column:8  
+name:Type DW_AT_decl_file:C:/w/qemu/include/qom/object.h DW_AT_decl_line:21 DW_AT_decl_column:26  DW_TAG_pointer_type size:8  
+name:TypeImpl DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:TypeImpl DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:TypeImpl DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:TypeImpl size:0x0178 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:48 DW_AT_decl_column:8  
+name:TypeInfo size:0x68 DW_AT_decl_file:C:/w/qemu/include/qom/object.h DW_AT_decl_line:474 DW_AT_decl_column:8  
+name:uint16List size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:128 DW_AT_decl_column:8  
+name:uint32List size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:136 DW_AT_decl_column:8  
+name:uint64List size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:144 DW_AT_decl_column:8  
+name:uint8List size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-builtin-types.h DW_AT_decl_line:120 DW_AT_decl_column:8  
+name:UnixSocketAddress size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:112 DW_AT_decl_column:8  
+name:UnixSocketAddress size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:112 DW_AT_decl_column:8  
+name:UnixSocketAddressWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:149 DW_AT_decl_column:8  
+name:UnixSocketAddressWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:149 DW_AT_decl_column:8  
+name:UserCreatableClass size:0x80 DW_AT_decl_file:C:/w/qemu/include/qom/object_interfaces.h DW_AT_decl_line:41 DW_AT_decl_column:8  
+name:UserCreatable DW_AT_declaration:true  DW_TAG_pointer_type size:8  DW_TAG_pointer_type size:8  DW_TAG_variable 
+name:VfioUserServerProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-qom.h DW_AT_decl_line:785 DW_AT_decl_column:8  
+name:VfioUserServerProperties size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-qom.h DW_AT_decl_line:785 DW_AT_decl_column:8  
+name:vhd_dyndisk_header size:0x0400 DW_AT_decl_file:C:\w\qemu\build/../block/vpc.c DW_AT_decl_line:102 DW_AT_decl_column:16  
+name:vhd_footer size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/vpc.c DW_AT_decl_line:64 DW_AT_decl_column:16  
+name:VHDXFileParameters size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:282 DW_AT_decl_column:28  
+name:VHDXHeader size:0x50 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:95 DW_AT_decl_column:28  
+name:VHDXLogDataSector size:0x1000 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:210 DW_AT_decl_column:28  
+name:VHDXLogDescEntries size:0x40 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx-log.c DW_AT_decl_line:38 DW_AT_decl_column:16  
+name:VHDXLogDescriptor size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:190 DW_AT_decl_column:28  
+name:VHDXLogEntries size:0x38 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:339 DW_AT_decl_column:16  
+name:VHDXLogEntryHeader size:0x40 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:166 DW_AT_decl_column:28  
+name:VHDXLogSequence size:0x80 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx-log.c DW_AT_decl_line:31 DW_AT_decl_column:16  
+name:VHDXMetadataEntries size:0xc2 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:329 DW_AT_decl_column:16  
+name:VHDXMetadataTableEntry size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:263 DW_AT_decl_column:28  
+name:VHDXMetadataTableHeader size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:251 DW_AT_decl_column:28  
+name:VHDXPage83Data size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:296 DW_AT_decl_column:28  
+name:VHDXParentLocatorEntry size:0x0c DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:319 DW_AT_decl_column:28  
+name:VHDXParentLocatorHeader size:0x14 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:311 DW_AT_decl_column:28  
+name:VHDXRegionEntry size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:350 DW_AT_decl_column:16  
+name:VHDXRegionTableEntry size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:152 DW_AT_decl_column:28  
+name:VHDXRegionTableHeader size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:136 DW_AT_decl_column:28  
+name:VHDXSectorInfo size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.c DW_AT_decl_line:133 DW_AT_decl_column:16  
+name:VHDXVirtualDiskLogicalSectorSize size:0x04 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:301 DW_AT_decl_column:28  
+name:VHDXVirtualDiskPhysicalSectorSize size:0x04 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:306 DW_AT_decl_column:28  
+name:VHDXVirtualDiskSize size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:290 DW_AT_decl_column:28  
+name:Visitor DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:Visitor DW_AT_declaration:true  DW_TAG_enumeration_type DW_AT_encoding:DW_ATE_unsigned size:0x04 DW_AT_decl_file:C:/w/qemu/include/qapi/util.h DW_AT_decl_line:14 DW_AT_decl_column:14  DW_TAG_enumerator 
+name:Visitor size:0xd8 DW_AT_decl_file:C:/w/qemu/include/qapi/visitor-impl.h DW_AT_decl_line:44 DW_AT_decl_column:8  
+name:VMChangeStateEntry DW_AT_declaration:true  DW_TAG_base_type size:0x01 DW_AT_encoding:DW_ATE_boolean 
+name:VmdkExtentInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1063 DW_AT_decl_column:8  
+name:VmdkExtentInfoList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1063 DW_AT_decl_column:8  
+name:VmdkExtentInfo size:0x30 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1081 DW_AT_decl_column:8  
+name:VmdkExtentInfo size:0x30 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1081 DW_AT_decl_column:8  
+name:VmdkExtent size:0x0110 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:135 DW_AT_decl_column:16  
+name:VmdkGrainMarker size:0x0c DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:192 DW_AT_decl_column:16  
+name:VmdkMetaData size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:184 DW_AT_decl_column:16  
+name:VMDKSESparseConstHeader size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:95 DW_AT_decl_column:16  
+name:VMDKSESparseVolatileHeader size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:125 DW_AT_decl_column:16  
+name:VsockSocketAddress size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:127 DW_AT_decl_column:8  
+name:VsockSocketAddress size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:127 DW_AT_decl_column:8  
+name:VsockSocketAddressWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-sockets.h DW_AT_decl_line:156 DW_AT_decl_column:8  
+name:VsockSocketAddressWrapper size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-sockets.h DW_AT_decl_line:156 DW_AT_decl_column:8  
+name:WaitObjects size:0x0708 DW_AT_decl_file:C:\w\qemu\build/../util/main-loop.c DW_AT_decl_line:354 DW_AT_decl_column:16  
+name:WSAData size:0x0198 DW_AT_decl_file:C:/msys64/mingw64/include/psdk_inc/_wsadata.h DW_AT_decl_line:13 DW_AT_decl_column:16  
+name:_WSANETWORKEVENTS size:0x2c DW_AT_decl_file:C:/msys64/mingw64/include/winsock2.h DW_AT_decl_line:412 DW_AT_decl_column:18  
+name:XDbgBlockGraphConstructor size:0x10 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:6252 DW_AT_decl_column:16  
+name:XDbgBlockGraphEdgeList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1872 DW_AT_decl_column:8  
+name:XDbgBlockGraphEdgeList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1872 DW_AT_decl_column:8  
+name:XDbgBlockGraphEdge size:0x28 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1853 DW_AT_decl_column:8  
+name:XDbgBlockGraphEdge size:0x28 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1853 DW_AT_decl_column:8  
+name:XDbgBlockGraphNodeList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1864 DW_AT_decl_column:8  
+name:XDbgBlockGraphNodeList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1864 DW_AT_decl_column:8  
+name:XDbgBlockGraphNode size:0x18 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1836 DW_AT_decl_column:8  
+name:XDbgBlockGraphNode size:0x18 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1836 DW_AT_decl_column:8  
+name:XDbgBlockGraph size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-block-core.h DW_AT_decl_line:1880 DW_AT_decl_column:8  
+name:XDbgBlockGraph size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-block-core.h DW_AT_decl_line:1880 DW_AT_decl_column:8  
+name:_XMM_SAVE_AREA32 size:0x0200 align:16 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:1818 DW_AT_decl_column:18  
+name:_XMM_SAVE_AREA32 size:0x0200 align:16 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:1818 DW_AT_decl_column:18  
+name:YankFuncAndParam size:0x20 DW_AT_decl_file:C:\w\qemu\build/../util/yank.c DW_AT_decl_line:20 DW_AT_decl_column:8  
+name:YankInstanceBlockNode size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-yank.h DW_AT_decl_line:42 DW_AT_decl_column:8  
+name:YankInstanceBlockNode size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-yank.h DW_AT_decl_line:42 DW_AT_decl_column:8  
+name:YankInstanceChardev size:0x08 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-yank.h DW_AT_decl_line:49 DW_AT_decl_column:8  
+name:YankInstanceChardev size:0x08 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-yank.h DW_AT_decl_line:49 DW_AT_decl_column:8  
+name:YankInstanceEntry size:0x20 DW_AT_decl_file:C:\w\qemu\build/../util/yank.c DW_AT_decl_line:26 DW_AT_decl_column:8  
+name:YankInstanceList size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-yank.h DW_AT_decl_line:71 DW_AT_decl_column:8  
+name:YankInstanceList size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-yank.h DW_AT_decl_line:71 DW_AT_decl_column:8  
+name:YankInstance size:0x10 DW_AT_decl_file:C:\w\qemu\build/./qapi/qapi-types-yank.h DW_AT_decl_line:60 DW_AT_decl_column:8  
+name:YankInstance size:0x10 DW_AT_decl_file:C:\w\qemu\build/qapi/qapi-types-yank.h DW_AT_decl_line:60 DW_AT_decl_column:8  
+name:ZSTD_inBuffer_s size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/zstd.h DW_AT_decl_line:678 DW_AT_decl_column:16  
+name:ZSTD_outBuffer_s size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/zstd.h DW_AT_decl_line:684 DW_AT_decl_column:16  
+name:z_streamp DW_AT_decl_file:C:/msys64/mingw64/include/zlib.h DW_AT_decl_line:108 DW_AT_decl_column:23  DW_TAG_pointer_type size:8  
+name:z_streamp DW_AT_decl_file:C:/msys64/mingw64/include/zlib.h DW_AT_decl_line:108 DW_AT_decl_column:23  DW_TAG_pointer_type size:8  DW_TAG_typedef 
+name:z_stream_s size:0x58 DW_AT_decl_file:C:/msys64/mingw64/include/zlib.h DW_AT_decl_line:86 DW_AT_decl_column:16  
+------------- size:0x00 DW_AT_decl_file:C:\w\qemu\build/../block/qed.h DW_AT_decl_line:105 DW_AT_decl_column:9  
+------------- size:0x01a0 align:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:1881 DW_AT_decl_column:22 DW_AT_export_symbols:true  
+------------- size:0x01a0 align:0x10 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:1881 DW_AT_decl_column:22 DW_AT_export_symbols:true  
+------------- size:0x01da DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:192 DW_AT_decl_column:9  
+------------- size:0x01da DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:201 DW_AT_decl_column:9  
+------------- size:0x01 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:205 DW_AT_decl_column:9  
+------------- size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/vdi.c DW_AT_decl_line:150 DW_AT_decl_column:9  
+------------- size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:979 DW_AT_decl_column:13  
+------------- size:0x0200 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:990 DW_AT_decl_column:13  
+------------- size:0x0248 DW_AT_decl_file:C:/msys64/mingw64/include/dirent.h DW_AT_decl_line:38 DW_AT_decl_column:9  
+------------- size:0x0248 DW_AT_decl_file:D:/a/msys64/mingw64/include/dirent.h DW_AT_decl_line:38 DW_AT_decl_column:9  
+------------- size:0x0260 DW_AT_decl_file:C:\w\qemu\build/../block/vdi.c DW_AT_decl_line:179 DW_AT_decl_column:9  
+------------- size:0x03 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:221 DW_AT_decl_column:9  
+------------- size:0x04 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/include/internal.h DW_AT_decl_line:117 DW_AT_decl_column:11  
+------------- size:0x04 DW_AT_decl_file:C:/msys64/mingw64/include/sysinfoapi.h DW_AT_decl_line:21 DW_AT_decl_column:22 DW_AT_export_symbols:true  
+------------- size:0x04 DW_AT_decl_file:C:/msys64/mingw64/include/ws2def.h DW_AT_decl_line:30 DW_AT_decl_column:20 DW_AT_export_symbols:true  
+------------- size:0x04 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:99 DW_AT_decl_column:9  
+------------- size:0x04 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:1591 DW_AT_decl_column:9  
+------------- size:0x04 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:1593 DW_AT_decl_column:9  
+------------- size:0x04 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:1594 DW_AT_decl_column:9  
+------------- size:0x04 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:272 DW_AT_decl_column:9  
+------------- size:0x04 DW_AT_decl_file:C:/w/qemu/include/block/aio-wait.h DW_AT_decl_line:54 DW_AT_decl_column:9  
+------------- size:0x0600 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:978 DW_AT_decl_column:9  
+------------- size:0x06 DW_AT_decl_file:C:\w\qemu\build/../io/channel-websock.c DW_AT_decl_line:132 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/crt/pseudo-reloc.c DW_AT_decl_line:60 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/math/frexp.c DW_AT_decl_line:17 DW_AT_decl_column:3 DW_AT_export_symbols:true  
+------------- size:0x08 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/math/signbit.c DW_AT_decl_line:12 DW_AT_decl_column:17  
+------------- size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/minwinbase.h DW_AT_decl_line:23 DW_AT_decl_column:9 DW_AT_export_symbols:true  
+------------- size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:528 DW_AT_decl_column:20 DW_AT_export_symbols:true  
+------------- size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:532 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:546 DW_AT_decl_column:20 DW_AT_export_symbols:true  
+------------- size:0x08 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:550 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:102 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:109 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:59 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:61 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/blkverify.c DW_AT_decl_line:22 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/block-backend.c DW_AT_decl_line:79 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/block-copy.c DW_AT_decl_line:142 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:80 DW_AT_decl_column:8  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/mirror.c DW_AT_decl_line:36 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-bitmap.c DW_AT_decl_line:1068 DW_AT_decl_column:18  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-bitmap.c DW_AT_decl_line:84 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-bitmap.c DW_AT_decl_line:95 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.c DW_AT_decl_line:65 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:351 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:400 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/qed.h DW_AT_decl_line:133 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:62 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:68 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/throttle-groups.c DW_AT_decl_line:75 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:399 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:1592 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:275 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/build/../job.c DW_AT_decl_line:56 DW_AT_decl_column:8  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/build/../job.c DW_AT_decl_line:93 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../qapi/qobject-input-visitor.c DW_AT_decl_line:42 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../qapi/qobject-input-visitor.c DW_AT_decl_line:54 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../qapi/qobject-output-visitor.c DW_AT_decl_line:30 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../qapi/qobject-output-visitor.c DW_AT_decl_line:36 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:4771 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/build/../replication.c DW_AT_decl_line:19 DW_AT_decl_column:8  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/async.c DW_AT_decl_line:553 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/async.c DW_AT_decl_line:67 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine.c DW_AT_decl_line:50 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine.c DW_AT_decl_line:53 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine.c DW_AT_decl_line:57 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine-lock.c DW_AT_decl_line:139 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine-lock.c DW_AT_decl_line:150 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine-lock.c DW_AT_decl_line:335 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-timer.c DW_AT_decl_line:50 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/rcu.c DW_AT_decl_line:71 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/thread-pool.c DW_AT_decl_line:65 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/yank.c DW_AT_decl_line:28 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:\w\qemu\build/../util/yank.c DW_AT_decl_line:43 DW_AT_decl_column:8  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/accounting.h DW_AT_decl_line:49 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/accounting.h DW_AT_decl_line:91 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:117 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:121 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:202 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:52 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1090 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1164 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1181 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1185 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1211 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1240 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/block/reqlist.h DW_AT_decl_line:34 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:210 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:211 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:212 DW_AT_decl_column:9  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qdict.h DW_AT_decl_line:30 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine.h DW_AT_decl_line:64 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine_int.h DW_AT_decl_line:50 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine_int.h DW_AT_decl_line:62 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine_int.h DW_AT_decl_line:69 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:29 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:62 DW_AT_decl_column:5  
+------------- size:0x08 DW_AT_decl_file:D:/a/msys64/mingw64/include/math.h DW_AT_decl_line:120 DW_AT_decl_column:20  
+------------- size:0x09a8 DW_AT_decl_file:C:\w\qemu\build/../block/vvfat.c DW_AT_decl_line:1654 DW_AT_decl_column:9  
+------------- size:0x0c DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/crt/pseudo-reloc.c DW_AT_decl_line:71 DW_AT_decl_column:9  
+------------- size:0x0c DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/crt/pseudo-reloc.c DW_AT_decl_line:77 DW_AT_decl_column:9  
+------------- size:0x0c DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-refcount.c DW_AT_decl_line:2621 DW_AT_decl_column:5  
+------------- size:0x0c DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-refcount.c DW_AT_decl_line:700 DW_AT_decl_column:5  
+------------- size:0x0c DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-snapshot.c DW_AT_decl_line:278 DW_AT_decl_column:5  
+------------- size:0x0c DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-snapshot.c DW_AT_decl_line:439 DW_AT_decl_column:5  
+------------- size:0x0c DW_AT_decl_file:C:\w\qemu\build/../io/channel-websock.c DW_AT_decl_line:136 DW_AT_decl_column:9  
+------------- size:0x10 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_pformat.c DW_AT_decl_line:1039 DW_AT_decl_column:3 DW_AT_export_symbols:true  
+------------- size:0x10 DW_AT_decl_file:C:/msys64/mingw64/include/gnutls/gnutls.h DW_AT_decl_line:1265 DW_AT_decl_column:9  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:108 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:60 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:76 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/block-backend.c DW_AT_decl_line:40 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/block-copy.c DW_AT_decl_line:67 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/build/../block.c DW_AT_decl_line:7152 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/dirty-bitmap.c DW_AT_decl_line:56 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/mirror.c DW_AT_decl_line:79 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2-bitmap.c DW_AT_decl_line:1544 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:242 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.h DW_AT_decl_line:502 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:50 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/quorum.c DW_AT_decl_line:63 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../block/vhdx.h DW_AT_decl_line:353 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/build/../event-loop-base.c DW_AT_decl_line:20 DW_AT_decl_column:9  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/build/../qemu-img.c DW_AT_decl_line:4786 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:2768 DW_AT_decl_column:9  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/aio-win32.c DW_AT_decl_line:36 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-coroutine.c DW_AT_decl_line:248 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/qemu-timer.c DW_AT_decl_line:70 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/thread-pool.c DW_AT_decl_line:53 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/yank.c DW_AT_decl_line:23 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:\w\qemu\build/../util/yank.c DW_AT_decl_line:29 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:185 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1047 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:1048 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:482 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:86 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/block_int-common.h DW_AT_decl_line:910 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/nbd.h DW_AT_decl_line:124 DW_AT_decl_column:5 DW_AT_export_symbols:true  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/replication.h DW_AT_decl_line:100 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/reqlist.h DW_AT_decl_line:31 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/block/throttle-groups.h DW_AT_decl_line:58 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:191 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:202 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/hw/qdev-core.h DW_AT_decl_line:365 DW_AT_decl_column:9  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qapi/qmp/qdict.h DW_AT_decl_line:24 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine.h DW_AT_decl_line:179 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine.h DW_AT_decl_line:95 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/coroutine_int.h DW_AT_decl_line:67 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/job.h DW_AT_decl_line:178 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/job.h DW_AT_decl_line:184 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:24 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:58 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/rcu.h DW_AT_decl_line:66 DW_AT_decl_column:5  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/uuid.h DW_AT_decl_line:22 DW_AT_decl_column:9  offset:0x00  
+------------- size:0x10 DW_AT_decl_file:C:/w/qemu/include/qemu/uuid.h DW_AT_decl_line:25 DW_AT_decl_column:9  
+------------- size:0x10 DW_AT_decl_file:D:/a/msys64/mingw64/include/math.h DW_AT_decl_line:133 DW_AT_decl_column:20  
+------------- size:0x14 DW_AT_decl_file:C:\w\qemu\build/../block/qcow2.c DW_AT_decl_line:4872 DW_AT_decl_column:5  
+------------- size:0x18 DW_AT_decl_file:C:/msys64/mingw64/include/glib-2.0/glib/gtestutils.h DW_AT_decl_line:654 DW_AT_decl_column:9  
+------------- size:0x18 DW_AT_decl_file:C:\w\qemu\build/./block/module_block.h DW_AT_decl_line:12 DW_AT_decl_column:14  
+------------- size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/nbd.c DW_AT_decl_line:55 DW_AT_decl_column:9  
+------------- size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/null.c DW_AT_decl_line:26 DW_AT_decl_column:9  
+------------- size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/qed.h DW_AT_decl_line:117 DW_AT_decl_column:9  
+------------- size:0x18 DW_AT_decl_file:C:\w\qemu\build/../block/vpc.c DW_AT_decl_line:125 DW_AT_decl_column:5  
+------------- size:0x18 DW_AT_decl_file:C:\w\qemu\build/../qom/object.c DW_AT_decl_line:1830 DW_AT_decl_column:9  offset:0x00  
+------------- size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/aio-wait.c DW_AT_decl_line:58 DW_AT_decl_column:9  
+------------- size:0x18 DW_AT_decl_file:C:\w\qemu\build/../util/iov.c DW_AT_decl_line:548 DW_AT_decl_column:9  
+------------- size:0x18 DW_AT_decl_file:C:/w/qemu/include/block/aio.h DW_AT_decl_line:65 DW_AT_decl_column:9  
+------------- size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/iov.h DW_AT_decl_line:161 DW_AT_decl_column:9  
+------------- size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/iov.h DW_AT_decl_line:202 DW_AT_decl_column:9 DW_AT_export_symbols:true  
+------------- size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/iov.h DW_AT_decl_line:206 DW_AT_decl_column:9 DW_AT_export_symbols:true  
+------------- size:0x18 DW_AT_decl_file:C:/w/qemu/include/qemu/option.h DW_AT_decl_line:110 DW_AT_decl_column:9  
+------------- size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/blkdebug.c DW_AT_decl_line:92 DW_AT_decl_column:9  
+------------- size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/io.c DW_AT_decl_line:251 DW_AT_decl_column:9  
+------------- size:0x20 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:2651 DW_AT_decl_column:9  
+------------- size:0x28 DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:65 DW_AT_decl_column:9  
+------------- size:0x30 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/stdio/mingw_pformat.c DW_AT_decl_line:279 DW_AT_decl_column:9  
+------------- size:0x30 DW_AT_decl_file:C:\w\qemu\build/../block/qed-check.c DW_AT_decl_line:18 DW_AT_decl_column:9  
+------------- size:0x40 DW_AT_decl_file:C:\w\qemu\build/../block/blklogwrites.c DW_AT_decl_line:351 DW_AT_decl_column:9  
+------------- size:0x40 DW_AT_decl_file:C:\w\qemu\build/../block/qed.h DW_AT_decl_line:86 DW_AT_decl_column:9  
+------------- size:0x40 DW_AT_decl_file:C:/w/qemu/include/qemu/ratelimit.h DW_AT_decl_line:20 DW_AT_decl_column:9  
+------------- size:0x4b DW_AT_decl_file:C:\w\qemu\build/../block/vmdk.c DW_AT_decl_line:78 DW_AT_decl_column:9  
+------------- size:0x50 DW_AT_decl_file:C:/msys64/mingw64/include/bzlib.h DW_AT_decl_line:49 DW_AT_decl_column:4  
+------------- size:0x58 DW_AT_decl_file:C:/M/B/src/mingw-w64/mingw-w64-crt/include/internal.h DW_AT_decl_line:90 DW_AT_decl_column:11  
+------------- size:0x58 DW_AT_decl_file:C:\w\qemu\build/../block/blklogwrites.c DW_AT_decl_line:54 DW_AT_decl_column:9  
+------------- size:0x58 DW_AT_decl_file:C:\w\qemu\build/../block/null.c DW_AT_decl_line:146 DW_AT_decl_column:9  
+------------- size:0x68 DW_AT_decl_file:C:\w\qemu\build/../util/coroutine-windows.c DW_AT_decl_line:29 DW_AT_decl_column:9  
+------------- size:0xd8 DW_AT_decl_file:C:\w\qemu\build/../block/qed.h DW_AT_decl_line:151 DW_AT_decl_column:9  
+------------- size:16 DW_AT_decl_file:C:\w\qemu\build/../block/throttle-groups.c DW_AT_decl_line:399 DW_AT_decl_column:9  
+------------- size:16 DW_AT_decl_file:C:\w\qemu\build/../block/throttle-groups.c DW_AT_decl_line:662 DW_AT_decl_column:9  
+------------- size:16 DW_AT_decl_file:C:\w\qemu\build/../util/defer-call.c DW_AT_decl_line:28 DW_AT_decl_column:9  
+------------- size:16 DW_AT_decl_file:C:\w\qemu\build/../util/defer-call.c DW_AT_decl_line:34 DW_AT_decl_column:9  
+------------- size:16 DW_AT_decl_file:C:/w/qemu/include/qemu/notify.h DW_AT_decl_line:24 DW_AT_decl_column:5  
+------------- size:16 DW_AT_decl_file:C:/w/qemu/include/qemu/uuid.h DW_AT_decl_line:22 DW_AT_decl_column:9  offset:0x00  
+------------- size:16 DW_AT_decl_file:C:/w/qemu/include/qemu/uuid.h DW_AT_decl_line:25 DW_AT_decl_column:9  
+------------- size:24 DW_AT_decl_file:C:/w/qemu/include/qemu/iov.h DW_AT_decl_line:202 DW_AT_decl_column:9 DW_AT_export_symbols:true  
+------------- size:24 DW_AT_decl_file:C:/w/qemu/include/qemu/iov.h DW_AT_decl_line:206 DW_AT_decl_column:9 DW_AT_export_symbols:true  
+------------- size:428 DW_AT_decl_file:C:\w\qemu\build/../block/bochs.c DW_AT_decl_line:58 DW_AT_decl_column:9  
+------------- size:428 DW_AT_decl_file:C:\w\qemu\build/../block/bochs.c DW_AT_decl_line:63 DW_AT_decl_column:9  
+------------- size:4 DW_AT_decl_file:C:/msys64/mingw64/include/inaddr.h DW_AT_decl_line:19 DW_AT_decl_column:5  
+------------- size:4 DW_AT_decl_file:C:/msys64/mingw64/include/inaddr.h DW_AT_decl_line:20 DW_AT_decl_column:5  
+------------- size:8 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:528 DW_AT_decl_column:20 DW_AT_export_symbols:true  
+------------- size:8 DW_AT_decl_file:C:/msys64/mingw64/include/winnt.h DW_AT_decl_line:546 DW_AT_decl_column:20 DW_AT_export_symbols:true  
+------------- size:8 DW_AT_decl_file:C:\w\qemu\build/../util/transactions.c DW_AT_decl_line:31 DW_AT_decl_column:5  
+------------- size:8 DW_AT_decl_file:C:\w\qemu\build/../util/transactions.c DW_AT_decl_line:35 DW_AT_decl_column:5  
+------------- size:8 DW_AT_decl_file:C:/w/qemu/include/block/accounting.h DW_AT_decl_line:49 DW_AT_decl_column:5  
+------------- size:8 DW_AT_decl_file:C:/w/qemu/include/block/accounting.h DW_AT_decl_line:91 DW_AT_decl_column:5  
+------------- size:8 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:528 DW_AT_decl_column:20 DW_AT_export_symbols:true  
+------------- size:8 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:532 DW_AT_decl_column:5  
+------------- size:8 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:546 DW_AT_decl_column:20 DW_AT_export_symbols:true  
+------------- size:8 DW_AT_decl_file:D:/a/msys64/mingw64/include/winnt.h DW_AT_decl_line:550 DW_AT_decl_column:5  
