@@ -1,0 +1,55 @@
+diff --git a/include/qemu/compiler.h b/include/qemu/compiler.h
+index c06954ccb4..62105b878c 100644
+--- a/include/qemu/compiler.h
++++ b/include/qemu/compiler.h
+@@ -23,7 +23,7 @@
+ #endif
+ 
+ #if defined(_WIN32) && (defined(__x86_64__) || defined(__i386__))
+-# define QEMU_PACKED __attribute__((gcc_struct, packed))
++# define QEMU_PACKED __attribute__((packed))
+ #else
+ # define QEMU_PACKED __attribute__((packed))
+ #endif
+diff --git a/meson.build b/meson.build
+index e0b880e4e1..ea760e7855 100644
+--- a/meson.build
++++ b/meson.build
+@@ -355,10 +355,7 @@ elif host_os == 'sunos'
+ elif host_os == 'haiku'
+   qemu_common_flags += ['-DB_USE_POSITIVE_POSIX_ERRORS', '-D_BSD_SOURCE', '-fPIC']
+ elif host_os == 'windows'
+-  if not compiler.compiles('struct x { int y; } __attribute__((gcc_struct));',
+-                           args: '-Werror')
+-    error('Your compiler does not support __attribute__((gcc_struct)) - please use GCC instead of Clang')
+-  endif
++  qemu_common_flags += ['-mno-ms-bitfields']
+ endif
+ 
+ # Choose instruction set (currently x86-only)
+diff --git a/scripts/cocci-macro-file.h b/scripts/cocci-macro-file.h
+index d247a5086e..eb5fb167da 100644
+--- a/scripts/cocci-macro-file.h
++++ b/scripts/cocci-macro-file.h
+@@ -24,7 +24,7 @@
+ #define G_GNUC_NULL_TERMINATED __attribute__((sentinel))
+ 
+ #if defined(_WIN32) && (defined(__x86_64__) || defined(__i386__))
+-# define QEMU_PACKED __attribute__((gcc_struct, packed))
++# define QEMU_PACKED __attribute__((packed))
+ #else
+ # define QEMU_PACKED __attribute__((packed))
+ #endif
+diff --git a/subprojects/libvhost-user/libvhost-user.h b/subprojects/libvhost-user/libvhost-user.h
+index deb40e77b3..638e7cd722 100644
+--- a/subprojects/libvhost-user/libvhost-user.h
++++ b/subprojects/libvhost-user/libvhost-user.h
+@@ -187,7 +187,7 @@ typedef struct VhostUserShared {
+ } VhostUserShared;
+ 
+ #if defined(_WIN32) && (defined(__x86_64__) || defined(__i386__))
+-# define VU_PACKED __attribute__((gcc_struct, packed))
++# define VU_PACKED __attribute__((packed))
+ #else
+ # define VU_PACKED __attribute__((packed))
+ #endif
